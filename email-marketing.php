@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Ygency - Web Agency HTML Template || Service Details</title>
+    <title>Spreadigit - Digital Agency</title>
     <!-- Favicon Icon -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
     <!-- Google Fonts -->
@@ -91,7 +91,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="hero-title style-two mb-100 rmb-50 wow fadeInUp delay-0-2s">
-                           Web Design
+                          Email Marketing
                            <img class="mxw-10 leaf" src="assets/images/banner/leaf.png" alt="Leaf">
                         </h1>
                     </div>
@@ -127,7 +127,7 @@
                                     <li>SEO Optimizations</li>
                                     <li>Digital Product Design</li>
                                 </ul>
-                                <a class="read-more mt-10 color-primary" href="about.html">Learn More <i class="far fa-arrow-right"></i></a>
+                                <a class="read-more mt-10 color-primary" href="contact.php">Learn More <i class="far fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -191,14 +191,14 @@
         
         
         <!-- Video Area start -->
-        <div class="video-area-two rel z-1">
+        <!-- <div class="video-area-two rel z-1">
             <div class="container-fluid">
                 <div class="video-part style-two wow fadeInUp delay-0-2s">
                     <img src="assets/images/video/video-two-bg.jpg" alt="Video">
                     <a href="https://www.youtube.com/watch?v=9Y7ma241N8k" class="mfp-iframe video-play"><i class="fas fa-play"></i></a>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Video Area end -->
         
         
@@ -209,31 +209,32 @@
                     <span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Design & Branding</b>
+                            <b>Brand Identity</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Web Development</b>
+                            <b>Social Media Marketing</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Mobile Apps</b>
+                            <b>Poster Design</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Design & Branding</b>
+                            <b>Google Ads</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Web Development</b>
+                            <b>SEO</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Mobile Apps</b>
+                            <b>Email
+                                        Marketing</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Design & Branding</b>
+                            <b>Print Design</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
@@ -251,7 +252,7 @@
         
         
          <!-- Why Choose Us start -->
-        <section class="why-choose-area pt-100 rpt-70 rel z-1">
+        <!-- <section class="why-choose-area pt-100 rpt-70 rel z-1">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-8">
@@ -311,12 +312,12 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Why Choose Us end -->
         
         
          <!-- FAQ's Area start -->
-        <section class="faq-area pt-130 rpt-95 pb-105 rpb-75 rel z-1">
+        <!-- <section class="faq-area pt-130 rpt-95 pb-105 rpb-75 rel z-1">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-4">
@@ -384,9 +385,73 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- FAQ's Area end -->
-        
+        <section class="pricing-plan-area pt-130 rpt-100 pb-90 rpb-60 rel z-1">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="section-title text-center mb-75 wow fadeInUp delay-0-2s">
+                            <span class="sub-title mb-15">Pricing Package</span>
+                            <h2>Best Pricing Package For All Web Design Solutions</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="pricing-plan-item style-two wow fadeInUp delay-0-2s">
+                            <div class="icon-title-price">
+                                <div class="icon">
+                                    <i class="flaticon-abstract"></i>
+                                </div>
+                                <div class="right-part">
+                                    <h5>Regular Package</h5>
+                                    <span class="price-text"><span class="before">$</span><span class="price">18.3</span> <span class="after">/per month</span></span>
+                                </div>
+                            </div>
+                            <ul class="list-style-one two-column">
+                                <li>Website Design</li>
+                                <li>Mobile Applications</li>
+                                <li>Web Development</li>
+                                <li>Quality Assurance</li>
+                                <li>SEO Optimizations</li>
+                                <li>Customs Services</li>
+                            </ul>
+                            <a href="pricing.html" class="theme-btn w-100">Choose Package <i class="far fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="pricing-plan-item style-two wow fadeInUp delay-0-4s">
+                           <span class="badge">
+                                <i class="fas fa-star-of-life"></i>
+                                <i class="fas fa-star-of-life"></i> 
+                                popular package 
+                                <i class="fas fa-star-of-life"></i>
+                                <i class="fas fa-star-of-life"></i>
+                            </span>
+                            <div class="icon-title-price">
+                                <div class="icon">
+                                    <i class="flaticon-liquid"></i>
+                                </div>
+                                <div class="right-part">
+                                    <h5>Premium Package</h5>
+                                    <span class="price-text"><span class="before">$</span><span class="price">98.3</span> <span class="after">/per month</span></span>
+                                </div>
+                            </div>
+                            <ul class="list-style-one two-column">
+                                <li>Website Design</li>
+                                <li>Mobile Applications</li>
+                                <li>Web Development</li>
+                                <li>Quality Assurance</li>
+                                <li>SEO Optimizations</li>
+                                <li>Customs Services</li>
+                            </ul>
+                            <a href="pricing.html" class="theme-btn w-100">Choose Package <i class="far fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         
         <!-- footer area start -->
         <?php

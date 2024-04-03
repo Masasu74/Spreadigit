@@ -196,7 +196,7 @@
                         <div class="section-title text-center wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-15">Work With Us</span>
                             <h2>Have Any Projects On Minds! Feel Free to Contact Us</h2>
-                            <a class="explore-more text-start mt-30" href="contact.php"><i class="fas fa-arrow-right"></i> <span>Explore more</span></a>
+                            <a class="explore-more text-start mt-30" href="contact.php"><i class="fas fa-arrow-right"></i> <span>ContactUs NOW!</span></a>
                         </div>
                     </div>
                 </div>

@@ -37,32 +37,31 @@
                                 <ul>
                                     <li class="dropdown"><a href="#">Graphic Design</a>
                                         <ul>
-                                            <li><a href="service-details.php">Brand Identity</a></li>
-                                            <li><a href="service-details.php">Social Media Post Design</a></li>
-                                            <li><a href="service-details.php">Web App Design</a></li>
-                                            <li><a href="service-details.php">Mobile App Design</a></li>
-                                            <li><a href="service-details.php">Print Design</a></li>
+                                            <li><a href="brand-identity.php">Brand Identity</a></li>
+                                            <li><a href="social-media-post.php">Social Media Post Design</a></li>
+                                            <li><a href="web-app-design.php">Web App Design</a></li>
+                                            <li><a href="mobile-app-design.php">Mobile App Design</a></li>
+                                            <li><a href="print-design.php">Print Design</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Digital Marketing</a>
                                         <ul>
-                                            <li><a href="service-details.php">Social Media Marketing</a>
+                                            <li><a href="social-media-marketing.php">Social Media Marketing</a>
                                             </li>
-                                            <li><a href="service-details.php">Content Creation</a></li>
+                                            <li><a href="content-creation.php">Content Creation</a></li>
 
-                                            <li><a href="service-details.php">Email Marketing</a></li>
-                                            <li><a href="service-details.php">S.E.O </a></li>
-                                            <li><a href="service-details.php">Google Ads</a></li>
+                                            <li><a href="email-marketing.php">Email Marketing</a></li>
+                                            <li><a href="seo.php">S.E.O </a></li>
+                                            <li><a href="google-ads.php">Google Ads</a></li>
 
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Software Dev</a>
                                         <ul>
-                                            <li><a href="service-details.php">Static Web Development</a>
+                                            <li><a href="web-development.php"> Web Development</a>
                                             </li>
-                                            <li><a href="service-details.php">Dynamic Web Development</a>
-                                            </li>
-                                            <li><a href="service-details.php">Mobile App Development</a>
+                                           
+                                            <li><a href="mobile-app-development.php">Mobile App Development</a>
                                             </li>
 
                                         </ul>

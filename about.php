@@ -90,11 +90,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-10 col-lg-11">
-                        <h1 class="hero-title mb-100 rmb-50 wow fadeInUp delay-0-2s">
-                           We’re Digital Web
+                        <h1 class="hero-title mb-100 rmb-50 wow fadeInUp delay-0-2s hola">
+                           We’re Creative
                            <img class="mxw-20" src="assets/images/banner/inside-title1.png" alt="title">
                            <img class="mxw-40" src="assets/images/banner/inside-title2.png" alt="title">
-                           Development Agency
+                           Digital Agency
                            <span class="arrow"><img class="wow fadeInLeft delay-0-6s" src="assets/images/hero/title-arrow.png" alt="Arrow"></span>
                         </h1>
                     </div>
@@ -105,19 +105,19 @@
         
         
         <!-- Video Area start -->
-        <div class="video-area-two rel z-1">
+        <!-- <div class="video-area-two rel z-1">
             <div class="container-fluid">
                 <div class="video-part style-two mb-40 wow fadeInUp delay-0-2s">
                     <img src="assets/images/video/video-two-bg.jpg" alt="Video">
                     <a href="https://www.youtube.com/watch?v=9Y7ma241N8k" class="mfp-iframe video-play"><i class="fas fa-play"></i></a>
                 </div>
-            </div>
+            </div> -->
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 wow fadeInLeft delay-0-2s">
                         <div class="client-text text-lg-start text-center mt-40 pb-50">
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptat emey accusantium doloremque laudantium totam aperiam eaque quabillo inventore veritatisey quasi architecto beatae dictasunt
-                        </div>
+                        SpreadiGit is your digital success partner, offering graphic design, software development, and digital marketing services to ensure your business thrives in the digital age. Let's bring your vision to life and achieve lasting success together.
+                                            </div>
                         <div class="row">
                             <div class="col-xl-10">
                                 <div class="client-logo-wrap">
@@ -136,7 +136,7 @@
                     </div>
                     <div class="col-lg-6 wow fadeInRight delay-0-2s">
                         <div class="video-year text-lg-end text-center rel">
-                            1980
+                            2020
                             <img class="leaf-shape" src="assets/images/video/leaf.png" alt="Leaf">
                         </div>
                     </div>
@@ -198,31 +198,32 @@
                     <span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Design & Branding</b>
+                            <b>Brand Identity</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Web Development</b>
+                            <b>Social Media Marketing</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Mobile Apps</b>
+                            <b>Poster Design</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Design & Branding</b>
+                            <b>Google Ads</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Web Development</b>
+                            <b>SEO</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Mobile Apps</b>
+                            <b>Email
+                                        Marketing</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
-                            <b>Design & Branding</b>
+                            <b>Print Design</b>
                         </span>
                         <span class="marquee-item">
                             <i class="fas fa-star-of-life"></i>
@@ -240,7 +241,7 @@
         
         
         <!-- Team Area start -->
-        <section class="team-area pt-130 rpt-100">
+        <!-- <section class="team-area pt-130 rpt-100">
             <div class="container-fluid">
                 <div class="row row-cols-xl-5 row-cols-lg-4 row-cols-md-3 row-cols-sm-2 row-cols-1 justify-content-center">
                     <div class="col">
@@ -350,7 +351,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Team Area end -->
        
        
@@ -361,7 +362,7 @@
                     <div class="col-xl-2 col-lg-3 col-6">
                         <div class="counter-item counter-text-wrap wow fadeInRight delay-0-2s">
                             <i class="fal fa-check-circle"></i>
-                            <span class="count-text" data-speed="3000" data-stop="25">0</span>
+                            <span class="count-text" data-speed="3000" data-stop="5">0</span>
                             <span class="counter-title">Years Of Experience</span>
                         </div>
                     </div>
@@ -544,7 +545,81 @@
             </div>
         </section>
         <!-- Client Logo Two end -->
-        
+        <section class="faq-area pt-130 rpt-100 pb-130 rpb-75 rel z-1">
+            <div class="container">
+                <div class="row align-items-center gap-100">
+                    <div class="col-lg-5">
+                       <div class="faq-iamge-part rmb-55 wow fadeInLeft delay-0-2s">
+                           <img src="assets/images/faqs/faq-two.jpg" alt="FAQs">
+                       </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="faq-content-part wow fadeInRight delay-0-2s">
+                            <div class="section-title mb-60">
+                                <span class="sub-title mb-15">Asked Questions</span>
+                                <h2>Frequently Asked Questions</h2>
+                            </div>
+                            <div class="accordion" id="faq-accordion">
+                                <div class="accordion-item">
+                                    <h5 class="accordion-header">
+                                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                                        What services does SpreadiGit offer?
+                                        </button>
+                                    </h5>
+                                    <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#faq-accordion">
+                                        <div class="accordion-body">
+                                            <p>SpreadiGit offers a range of digital services including graphic design, software development, and digital marketing tailored to elevate your brand and drive success in the digital realm.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h5 class="accordion-header">
+                                        <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                                        How does SpreadiGit ensure client satisfaction?
+                                        </button>
+                                    </h5>
+                                    <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#faq-accordion">
+                                        <div class="accordion-body">
+                                            <p>At SpreadiGit, client satisfaction is our top priority. We achieve this through open communication, understanding client needs, and delivering high-quality, tailored solutions that exceed expectations.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h5 class="accordion-header">
+                                        <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                                        Can SpreadiGit handle projects of all sizes?
+                                        </button>
+                                    </h5>
+                                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#faq-accordion">
+                                        <div class="accordion-body">
+                                            <p>Yes, SpreadiGit is equipped to handle projects of all sizes, from small startups to large corporations. Our team of experts has the skills and experience to tackle diverse projects and deliver exceptional results.
+
+</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h5 class="accordion-header">
+                                        <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
+                                        How can I get started with SpreadiGit?
+                                        </button>
+                                    </h5>
+                                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faq-accordion">
+                                        <div class="accordion-body">
+                                            <p>Getting started with SpreadiGit is simple. Just reach out to us through our website or contact us directly, and we'll schedule a consultation to discuss your needs and how we can help achieve your digital goals.s</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="faq-shapes">
+                <img class="shape left" src="assets/images/shapes/ellipse-left.png" alt="Shape">
+                <img class="shape right" src="assets/images/shapes/ellipse-right.png" alt="Shape">
+            </div>
+        </section>
         
         <!-- footer area start -->
         <?php 

@@ -43,9 +43,9 @@
         </div>
 
         <!-- main header -->
-    <?php
-    include './partial/header.php';
-    ?>
+        <?php
+        include './partial/header.php';
+        ?>
 
 
         <!--Form Back Drop-->
@@ -108,10 +108,9 @@
                         <div class="col-xl-4">
                             <div class="hero-six-content">
                                 <h1>Creative Digital Agency</h1>
-                                <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque
-                                    laudantium totam aperiam eaque</p>
-                                <a href="services.php" class="theme-btn style-two">Explore Services <i
-                                        class="far fa-arrow-right"></i></a>
+                                <p>
+                                    SpreaDigit: Your Partner in Digital Success. Tailored solutions to elevate your business. Let's spread success together!</p>
+                                <a href="contact.php" class="theme-btn style-two" style="color:white;">Free consultation <i class="far fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-xl-4 align-self-end">
@@ -138,27 +137,12 @@
             <div class="container">
                 <div class="services-five-wrapper">
                     <a class="service-five-item" href="service-details.php">
-                        <span>Web Design</span>
+                        <span>Social Media Marketing</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
                     <a class="service-five-item" href="service-details.php">
-                        <span>Digital Marketing</span>
-                        <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
-                    </a>
-                    <a class="service-five-item" href="service-details.php">
-                        <span>Mobile App</span>
-                        <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
-                    </a>
-                    <a class="service-five-item" href="service-details.php">
-                        <span>Custom Service</span>
-                        <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
-                    </a>
-                    <a class="service-five-item" href="service-details.php">
-                        <span>Web Development</span>
+                        <span>Google ads</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
@@ -167,21 +151,35 @@
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
+
                     <a class="service-five-item" href="service-details.php">
-                        <span>Graphics Design</span>
+                        <span>Poster Design</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
                     <a class="service-five-item" href="service-details.php">
-                        <span>3D Animation</span>
+                        <span>Web Design</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
                     <a class="service-five-item" href="service-details.php">
-                        <span>Branding</span>
+                        <span>Print Design</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
+
+                    <a class="service-five-item" href="service-details.php">
+                        <span>Web & Mobile App Development</span>
+                        <i class="flaticon-star-symbol"></i>
+                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
+                    </a>
+                    <a class="service-five-item" href="service-details.php">
+
+                        <span>Brand Identity</span>
+                        <i class="flaticon-star-symbol"></i>
+                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
+                    </a>
+
                 </div>
             </div>
         </div>
@@ -216,9 +214,8 @@
                                 </div>
                                 <div class="content">
                                     <h5>Company Mission</h5>
-                                    <p>Our mission is to empower businesses with cutting-edge digital solutions</p>
-                                    <a class="read-more" href="service-details.php"><span>Read More</span> <i
-                                            class="far fa-arrow-right"></i></a>
+                                    <p>Empower businesses with innovative digital strategies for sustained success.</p>
+                                    <a class="read-more" href="service-details.php"><span>Read More</span> <i class="far fa-arrow-right"></i></a>
                                 </div>
                             </div>
                             <div class="feature-six-item">
@@ -227,9 +224,9 @@
                                 </div>
                                 <div class="content">
                                     <h5>Company Vision & Goals</h5>
-                                    <p>We are dedicated to crafting digitals experiences that seamlessly</p>
-                                    <a class="read-more" href="service-details.php"><span>Read More</span> <i
-                                            class="far fa-arrow-right"></i></a>
+                                    <p>
+                                        To lead digital innovation for client success while adapting to industry changes.</p>
+                                    <a class="read-more" href="service-details.php"><span>Read More</span> <i class="far fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -251,7 +248,7 @@
                     <div class="col-xl-6 col-lg-8">
                         <div class="section-title text-center mb-70 rmb-50 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-15">Popular Services</span>
-                            <h2>We Provide Amazing Web Design Solutions</h2>
+                            <h2>We Provide Amazing Digital Services Solutions</h2>
                         </div>
                     </div>
                 </div>
@@ -260,8 +257,8 @@
                         <div class="service-six-item wow fadeInUp delay-0-2s">
                             <div class="icon"><i class="fal fa-bezier-curve"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.php">Website Design</a></h5>
-                                <p>We denounce with righteous indignation</p>
+                                <h5><a href="service-details.php">Brand Identity</a></h5>
+                                <p>Crafting compelling brand identities that resonate and captivate.</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
                         </div>
@@ -270,8 +267,8 @@
                         <div class="service-six-item wow fadeInUp delay-0-4s">
                             <div class="icon"><i class="fal fa-telescope"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.php">Digital Marketing</a></h5>
-                                <p>We denounce with righteous indignation</p>
+                                <h5><a href="service-details.php">Social Media Marketing</a></h5>
+                                <p>Engaging audiences and driving brand awareness through strategic social media campaigns.</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
                         </div>
@@ -280,8 +277,8 @@
                         <div class="service-six-item wow fadeInUp delay-0-2s">
                             <div class="icon"><i class="fal fa-telescope"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.php">Mobile Apps Design</a></h5>
-                                <p>We denounce with righteous indignation</p>
+                                <h5><a href="service-details.php">Web Design</a></h5>
+                                <p>Designing intuitive and visually stunning websites to enhance user experience and drive conversions.</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
                         </div>
@@ -290,8 +287,8 @@
                         <div class="service-six-item wow fadeInUp delay-0-4s">
                             <div class="icon"><i class="fal fa-laptop-code"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.php">Web Development</a></h5>
-                                <p>We denounce with righteous indignation</p>
+                                <h5><a href="service-details.php">Poster Design</a></h5>
+                                <p>Creating impactful posters that effectively communicate messages and promote events or products.</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
                         </div>
@@ -300,8 +297,8 @@
                         <div class="service-six-item wow fadeInUp delay-0-2s">
                             <div class="icon"><i class="fal fa-mail-bulk"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.php">Email & Content Marketing</a></h5>
-                                <p>We denounce with righteous indignation</p>
+                                <h5><a href="service-details.php">Google Ads </a></h5>
+                                <p>Maximizing business visibility and conversions with targeted Google Ads campaigns.n</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
                         </div>
@@ -310,8 +307,8 @@
                         <div class="service-six-item wow fadeInUp delay-0-4s">
                             <div class="icon"><i class="fal fa-file-contract"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.php">Design & Branding</a></h5>
-                                <p>We denounce with righteous indignation</p>
+                                <h5><a href="service-details.php">Print Design</a></h5>
+                                <p>Delivering exceptional print designs for consistent branding and memorable impressions.</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
                         </div>
@@ -353,7 +350,7 @@
 
 
         <!-- Team Area start -->
-        <section class="team-area pt-130 rpt-100 pb-100 rpb-70 rel z-1">
+        <!-- <section class="team-area pt-130 rpt-100 pb-100 rpb-70 rel z-1">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
@@ -452,7 +449,7 @@
                 <span></span><span></span>
                 <span></span><span></span>
             </div>
-        </section>
+        </section> -->
         <!-- Team Area end -->
 
 
@@ -464,43 +461,43 @@
                         <div class="why-choose-us-content pb-30">
                             <div class="section-title mb-60 wow fadeInUp delay-0-2s">
                                 <span class="sub-title mb-15">Why Choose Us</span>
-                                <h2>Web Design Company That You Can Trust</h2>
+                                <h2>Elevate Your Business with Our Unmatched Expertise</h2>
                             </div>
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="why-choose-item style-three wow fadeInUp delay-0-2s">
                                         <div class="why-choose-header">
                                             <i class="far fa-chevron-right"></i>
-                                            <h5>Competitive rates</h5>
+                                            <h5>Proven Expertise</h5>
                                         </div>
-                                        <p>We are strategic marketing the have proven programming</p>
+                                        <p>Benefit from years of experience and a proven track record of success.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="why-choose-item style-three wow fadeInUp delay-0-3s">
                                         <div class="why-choose-header">
                                             <i class="far fa-chevron-right"></i>
-                                            <h5>Premium Development</h5>
+                                            <h5>Innovative Approach</h5>
                                         </div>
-                                        <p>We are strategic marketing the have proven programming</p>
+                                        <p>Stay ahead of the competition with our cutting-edge techniques and technologies.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="why-choose-item style-three wow fadeInUp delay-0-2s">
                                         <div class="why-choose-header">
                                             <i class="far fa-chevron-right"></i>
-                                            <h5>No contracts needed</h5>
+                                            <h5>Client-Centric Focus</h5>
                                         </div>
-                                        <p>We are strategic marketing the have proven programming</p>
+                                        <p>Experience exceptional customer service and unwavering dedication to your success.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="why-choose-item style-three wow fadeInUp delay-0-3s">
                                         <div class="why-choose-header">
                                             <i class="far fa-chevron-right"></i>
-                                            <h5>Retina & Flexible</h5>
+                                            <h5>Measurable Results</h5>
                                         </div>
-                                        <p>We are strategic marketing the have proven programming</p>
+                                        <p>Achieve tangible outcomes through data-driven campaigns tailored to your goals.</p>
                                     </div>
                                 </div>
                             </div>
@@ -516,8 +513,7 @@
                             </div>
                             <div class="why-choose-border-shape"></div>
                             <div class="text-shape">
-                                <img class="text" src="assets/images/services/web-design-text.svg"
-                                    alt="Web Design Text">
+                                <img class="text" src="assets/images/services/web-design-text.svg" alt="Web Design Text">
                             </div>
                         </div>
                     </div>
@@ -538,32 +534,22 @@
                     <div class="headline-wrap-two style-two">
                         <span class="marquee-wrap">
                             <span class="marquee-inner left">
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital
-                                        Marketing</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product
-                                        Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps
-                                        Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding
-                                        Identity</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web
-                                        Optimizations</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Brand Identity</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Social Media Marketing</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Poster Design
+                                        </b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Google Ads</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b> SEO</b></span>
                                 <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email
                                         Marketing</b></span>
                             </span>
                             <span class="marquee-inner left">
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital
-                                        Marketing</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product
-                                        Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Print Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web & Mobile Design</b></span>
                                 <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps
-                                        Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding
-                                        Identity</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web
-                                        Optimizations</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email
-                                        Marketing</b></span>
+                                        Development</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Website Development</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Content Creation</b></span>
                             </span>
                             <span class="marquee-inner left">
                                 <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital
@@ -675,14 +661,14 @@
                     <div class="col-xl-2 col-lg-3 col-6">
                         <div class="counter-item counter-text-wrap wow fadeInUp delay-0-2s">
                             <i class="fal fa-check-circle"></i>
-                            <span class="count-text" data-speed="3000" data-stop="25">0</span>
+                            <span class="count-text" data-speed="3000" data-stop="5">0</span>
                             <span class="counter-title">Years Of Experience</span>
                         </div>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-6">
                         <div class="counter-item counter-text-wrap wow fadeInUp delay-0-3s">
                             <i class="fal fa-check-circle"></i>
-                            <span class="count-text k" data-speed="3000" data-stop="3">0</span>
+                            <span class="count-text k" data-speed="3000" data-stop="1">0</span>
                             <span class="counter-title">Project’s Complete</span>
                         </div>
                     </div>
@@ -715,8 +701,7 @@
             <div class="container-fluid px-0">
                 <div class="row no-gap">
                     <div class="col-xl-6 wow fadeInRight delay-0-2s">
-                        <div class="testimonial-five-image"
-                            style="background-image: url(assets/images/testimonials/testimonials-five.jpg);"></div>
+                        <div class="testimonial-five-image" style="background-image: url(assets/images/testimonials/testimonials-five.jpg);"></div>
                     </div>
                     <div class="col-xl-6 align-self-center">
                         <div class="testimonial-five-right p-100 py-130 rpy-100 wow fadeInLeft delay-0-2s">
@@ -728,8 +713,7 @@
                                     <div class="author-speech">
                                         <p><span class="quote">“</span> On the other hand denounce with righteous
                                             indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span
-                                                class="quote right-quote">“</span></p>
+                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
                                     </div>
                                     <hr>
                                     <div class="testimonial-footer">
@@ -755,8 +739,7 @@
                                     <div class="author-speech">
                                         <p><span class="quote">“</span> On the other hand denounce with righteous
                                             indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span
-                                                class="quote right-quote">“</span></p>
+                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -781,8 +764,7 @@
                                     <div class="author-speech">
                                         <p><span class="quote">“</span> On the other hand denounce with righteous
                                             indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span
-                                                class="quote right-quote">“</span></p>
+                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -807,8 +789,7 @@
                                     <div class="author-speech">
                                         <p><span class="quote">“</span> On the other hand denounce with righteous
                                             indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span
-                                                class="quote right-quote">“</span></p>
+                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -970,9 +951,9 @@
 
 
         <!-- footer area start -->
-       <?php 
-       include './partial/footer.php';
-       ?>
+        <?php
+        include './partial/footer.php';
+        ?>
         <!-- footer area end -->
 
     </div>

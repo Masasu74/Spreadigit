@@ -119,20 +119,20 @@
                             <div class="row gap-80 pb-30">
                                 <div class="col-sm-6">
                                     <div class="our-location-address mb-40">
-                                        <h5>New York</h5>
-                                        <p>55 One State Road, 2nd Block New York, United States</p>
-                                        <a class="mailto" href="mailto:support@gmail.com">support@gmail.com</a><br>
-                                        <a class="callto" href="callto:+00012345688"><i class="fas fa-phone"></i> +000 (123) 456 88</a>
+                                        <h5>Kigali</h5>
+                                        <p>Kimironko,Gasabo,Rwanda</p>
+                                        <a class="mailto" href="mailto:support@gmail.com">spreadigit@gmail.com</a><br>
+                                        <a class="callto" href="callto:+00012345688"><i class="fas fa-phone"></i> +250783876662</a>
                                     </div>
                                 </div>
-                                <div class="col-sm-6">
+                                <!-- <div class="col-sm-6">
                                     <div class="our-location-address mb-40">
                                         <h5>Australia</h5>
                                         <p>67 One State Road, 2nd Block Melbourne, Australia</p>
                                         <a class="mailto" href="mailto:support@gmail.com">support@gmail.com</a><br>
                                         <a class="callto" href="callto:+00012345688"><i class="fas fa-phone"></i> +000 (123) 456 88</a>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <h4>Follow Us</h4>
                             <div class="social-style-two pt-15">
@@ -196,13 +196,13 @@
        
        
        <!-- Location Map Area Start -->
-        <div class="contact-page-map mb-120 rpb-90 wow fadeInUp delay-0-2s">
+        <!-- <div class="contact-page-map mb-120 rpb-90 wow fadeInUp delay-0-2s">
             <div class="container-fluid">
                 <div class="our-location">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m12!1m10!1m3!1d142190.2862584524!2d-74.01298319978558!3d40.721725351435126!2m1!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sbd!4v1663473911885!5m2!1sen!2sbd" style="border:0; width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Location Map Area End -->
         
        
