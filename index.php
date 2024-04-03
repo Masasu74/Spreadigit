@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
+
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -13,7 +14,7 @@
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
-    
+
     <!-- Flaticon -->
     <link rel="stylesheet" href="assets/css/flaticon.min.css">
     <!-- Font Awesome -->
@@ -30,125 +31,26 @@
     <link rel="stylesheet" href="assets/css/slick.min.css">
     <!-- Main Style -->
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
 </head>
+
 <body class="home-six">
     <div class="page-wrapper">
 
         <!-- Preloader -->
-        <div class="preloader"><div class="custom-loader"></div></div>
+        <div class="preloader">
+            <div class="custom-loader"></div>
+        </div>
 
         <!-- main header -->
-        <header class="main-header menu-absolute">
+    <?php
+    include './partial/header.php';
+    ?>
 
-            <!--Header-Upper-->
-            <div class="header-upper">
-                <div class="container container-1620 clearfix">
-
-                    <div class="header-inner rpy-10 rel d-flex align-items-center">
-                        <div class="logo-outer">
-                            <div class="logo"><a href="index.html"><img src="assets/images/logos/logo.png" alt="Logo" title="Logo"></a></div>
-                        </div>
-
-                        <div class="nav-outer ms-lg-auto clearfix">
-                            <!-- Main Menu -->
-                            <nav class="main-menu navbar-expand-lg">
-                                <div class="navbar-header py-10">
-                                   <div class="mobile-logo">
-                                       <a href="index.html">
-                                            <img src="assets/images/logos/logo.png" alt="Logo" title="Logo">
-                                       </a>
-                                   </div>
-                                   
-                                    <!-- Toggle Button -->
-                                    <button type="button" class="navbar-toggle" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                    </button>
-                                </div>
-
-                                <div class="navbar-collapse collapse clearfix">
-                                    <ul class="navigation clearfix">
-                                        <li><a href="./">Home</a></li>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li class="dropdown"><a href="#">Services</a>
-                                            <ul>
-                                               <li class="dropdown"><a href="#">Graphic Design</a>
-                                                    <ul>
-                                                        <li><a href="index.html">Brand Identity</a></li>
-                                                        <li><a href="index2.html">Social Media Post Design</a></li>
-                                                        <li><a href="index3.html">Web App Design</a></li>
-                                                        <li><a href="index4.html">Mobile App Design</a></li>
-                                                        <li><a href="index5.html">Print Design</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="dropdown"><a href="#">Digital Marketing</a>
-                                                    <ul>
-                                                        <li><a href="index1-onepage.html">Social Media Marketing</a></li>
-                                                        <li><a href="index1-onepage.html">Content Creation</a></li>
-
-                                                        <li><a href="index2-onepage.html">Email Marketing</a></li>
-                                                        <li><a href="index3-onepage.html">S.E.O </a></li>
-                                                        <li><a href="index4-onepage.html">Google Ads</a></li>
-                                                        
-                                                    </ul>
-                                                </li>
-                                                <li class="dropdown"><a href="#">Software Dev</a>
-                                                    <ul>
-                                                        <li><a href="index1-onepage.html">Static Web Development</a></li>
-                                                        <li><a href="index2-onepage.html">Dynamic Web Development</a></li>
-                                                        <li><a href="index3-onepage.html">Mobile App Development</a></li>
-                                                       
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Projects</a>
-                                            <ul>
-                                               <li><a href="#">Graphic Design</a>   </li>
-                                                <li><a href="#">Digital Marketing</a> </li>
-                                                <li><a href="#">Software Dev</a> </li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="about.html">Contact Us</a></li>
-
-
-                                    </ul>
-                                </div>
-
-                            </nav>
-                            <!-- Main Menu End-->
-                        </div>
-                        
-                        <!-- Nav Search -->
-                        <div class="nav-search py-10">
-                            <button class="far fa-search"></button>
-                            <form action="#" class="hide">
-                                <input type="text" placeholder="Search" class="searchbox" required="">
-                                <button type="submit" class="searchbutton far fa-search"></button>
-                            </form>
-                        </div>
-                        
-                        <!-- Menu Button -->
-                        <div class="menu-btns">
-                            <!-- menu sidbar -->
-                            <div class="menu-sidebar">
-                                <button>
-                                    <img src="assets/images/icons/toggler.svg" alt="Toggler">
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Header Upper-->
-        </header>
-       
 
         <!--Form Back Drop-->
         <div class="form-back-drop"></div>
-        
+
         <!-- Hidden Sidebar -->
         <section class="hidden-bar">
             <div class="inner-box text-center">
@@ -159,7 +61,7 @@
 
                 <!--Appointment Form-->
                 <div class="appointment-form">
-                    <form method="post" action="contact.html">
+                    <form method="post" action="contact.php">
                         <div class="form-group">
                             <input type="text" name="text" value="" placeholder="Name" required>
                         </div>
@@ -185,8 +87,8 @@
             </div>
         </section>
         <!--End Hidden Sidebar -->
-       
-        
+
+
         <!-- Hero Section Start -->
         <section class="hero-area-six pt-185 rpt-150 pb-130 rpb-100 rel z-1">
             <div class="container container-1620">
@@ -206,8 +108,10 @@
                         <div class="col-xl-4">
                             <div class="hero-six-content">
                                 <h1>Creative Digital Agency</h1>
-                                <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium totam aperiam eaque</p>
-                                <a href="services.html" class="theme-btn style-two">Explore Services <i class="far fa-arrow-right"></i></a>
+                                <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque
+                                    laudantium totam aperiam eaque</p>
+                                <a href="services.php" class="theme-btn style-two">Explore Services <i
+                                        class="far fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-xl-4 align-self-end">
@@ -222,68 +126,68 @@
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </section>
         <!-- Hero Section End -->
-       
-       
+
+
         <!-- Services area start -->
         <div id="services" class="services-area-five bgc-primary pt-80 pb-50">
             <div class="container">
                 <div class="services-five-wrapper">
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>Web Design</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>Digital Marketing</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>Mobile App</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>Custom Service</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>Web Development</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>SEO</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>Graphics Design</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>3D Animation</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.html">
+                    <a class="service-five-item" href="service-details.php">
                         <span>Branding</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
                     </a>
-                 </div>
+                </div>
             </div>
         </div>
         <!-- Services Area end -->
-       
-       
+
+
         <!-- About Us Area start -->
         <section class="about-area-six pt-130 rpt-100 pb-80 rpb-50 rel z-1">
             <div class="container">
@@ -313,7 +217,8 @@
                                 <div class="content">
                                     <h5>Company Mission</h5>
                                     <p>Our mission is to empower businesses with cutting-edge digital solutions</p>
-                                    <a class="read-more" href="service-details.html"><span>Read More</span> <i class="far fa-arrow-right"></i></a>
+                                    <a class="read-more" href="service-details.php"><span>Read More</span> <i
+                                            class="far fa-arrow-right"></i></a>
                                 </div>
                             </div>
                             <div class="feature-six-item">
@@ -323,7 +228,8 @@
                                 <div class="content">
                                     <h5>Company Vision & Goals</h5>
                                     <p>We are dedicated to crafting digitals experiences that seamlessly</p>
-                                    <a class="read-more" href="service-details.html"><span>Read More</span> <i class="far fa-arrow-right"></i></a>
+                                    <a class="read-more" href="service-details.php"><span>Read More</span> <i
+                                            class="far fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -331,30 +237,30 @@
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </section>
         <!-- About Us Area end -->
-        
-        
+
+
         <!-- Services Area start -->
         <section class="services-area-six pb-100 rpb-70 rel z-1">
             <div class="container">
-               <div class="row justify-content-center">
-                   <div class="col-xl-6 col-lg-8">
+                <div class="row justify-content-center">
+                    <div class="col-xl-6 col-lg-8">
                         <div class="section-title text-center mb-70 rmb-50 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-15">Popular Services</span>
                             <h2>We Provide Amazing Web Design Solutions</h2>
                         </div>
-                   </div>
-               </div>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="service-six-item wow fadeInUp delay-0-2s">
                             <div class="icon"><i class="fal fa-bezier-curve"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.html">Website Design</a></h5>
+                                <h5><a href="service-details.php">Website Design</a></h5>
                                 <p>We denounce with righteous indignation</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
@@ -364,7 +270,7 @@
                         <div class="service-six-item wow fadeInUp delay-0-4s">
                             <div class="icon"><i class="fal fa-telescope"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.html">Digital Marketing</a></h5>
+                                <h5><a href="service-details.php">Digital Marketing</a></h5>
                                 <p>We denounce with righteous indignation</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
@@ -374,7 +280,7 @@
                         <div class="service-six-item wow fadeInUp delay-0-2s">
                             <div class="icon"><i class="fal fa-telescope"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.html">Mobile Apps Design</a></h5>
+                                <h5><a href="service-details.php">Mobile Apps Design</a></h5>
                                 <p>We denounce with righteous indignation</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
@@ -384,7 +290,7 @@
                         <div class="service-six-item wow fadeInUp delay-0-4s">
                             <div class="icon"><i class="fal fa-laptop-code"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.html">Web Development</a></h5>
+                                <h5><a href="service-details.php">Web Development</a></h5>
                                 <p>We denounce with righteous indignation</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
@@ -394,7 +300,7 @@
                         <div class="service-six-item wow fadeInUp delay-0-2s">
                             <div class="icon"><i class="fal fa-mail-bulk"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.html">Email & Content Marketing</a></h5>
+                                <h5><a href="service-details.php">Email & Content Marketing</a></h5>
                                 <p>We denounce with righteous indignation</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
@@ -404,7 +310,7 @@
                         <div class="service-six-item wow fadeInUp delay-0-4s">
                             <div class="icon"><i class="fal fa-file-contract"></i></div>
                             <div class="content">
-                                <h5><a href="service-details.html">Design & Branding</a></h5>
+                                <h5><a href="service-details.php">Design & Branding</a></h5>
                                 <p>We denounce with righteous indignation</p>
                             </div>
                             <a class="details-btn" href="#"><i class="far fa-arrow-right"></i></a>
@@ -413,24 +319,28 @@
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </section>
         <!-- Services Area end -->
-        
-        
+
+
         <!-- Video Area start -->
-        <div class="video-area-six pt-175 rpt-125 pb-185 rpb-135 bgs-cover" style="background-image: url(assets/images/background/video-bg.jpg);">
+        <!-- <div class="video-area-six pt-175 rpt-125 pb-185 rpb-135 bgs-cover"
+            style="background-image: url(assets/images/background/video-bg.jpg);">
             <div class="container">
                 <div class="video-six-content wow fadeInUp delay-0-2s">
                     <span class="video-title mb-20 rmb-0">Co-working</span>
                     <div class="row align-items-center justify-content-center">
                         <div class="col-xl-3 col-lg-4">
-                            <div class="text mt-35">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</div>
+                            <div class="text mt-35">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                                accusantium doloremque</div>
                         </div>
                         <div class="col-xl-2 col-lg-3 text-center">
-                            <a href="https://www.youtube.com/watch?v=9Y7ma241N8k" class="mfp-iframe video-play mt-35"><img src="assets/images/icons/play-icon.png" alt="Play"></a>
+                            <a href="https://www.youtube.com/watch?v=9Y7ma241N8k"
+                                class="mfp-iframe video-play mt-35"><img src="assets/images/icons/play-icon.png"
+                                    alt="Play"></a>
                         </div>
                         <div class="col-xl-3 col-lg-4">
                             <span class="video-text text-lg-start text-center mt-35">Video</span>
@@ -438,14 +348,14 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Video Area end -->
-        
-        
+
+
         <!-- Team Area start -->
         <section class="team-area pt-130 rpt-100 pb-100 rpb-70 rel z-1">
-           <div class="container">
-               <div class="row justify-content-center">
+            <div class="container">
+                <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="section-title text-center mb-55 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-20">Team Members</span>
@@ -453,7 +363,7 @@
                         </div>
                     </div>
                 </div>
-           </div>
+            </div>
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
@@ -539,13 +449,13 @@
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </section>
         <!-- Team Area end -->
-        
-        
+
+
         <!-- Why Choose Us start -->
         <section class="demo-area pb-60 rel z-1">
             <div class="container">
@@ -597,75 +507,94 @@
                         </div>
                     </div>
                     <div class="col-xl-6">
-                       <div class="why-choose-right mb-60 style-two style-three wow fadeInLeft delay-0-2s">
-                           <div class="image-one mb-30">
-                               <img src="assets/images/services/why-choose1.jpg" alt="Why Choose">
-                           </div>
-                           <div class="image-two">
-                               <img src="assets/images/services/why-choose2.jpg" alt="Why Choose">
-                           </div>
-                           <div class="why-choose-border-shape"></div>
-                           <div class="text-shape">
-                               <img class="text" src="assets/images/services/web-design-text.svg" alt="Web Design Text">
-                           </div>
-                       </div>
+                        <div class="why-choose-right mb-60 style-two style-three wow fadeInLeft delay-0-2s">
+                            <div class="image-one mb-30">
+                                <img src="assets/images/services/why-choose1.jpg" alt="Why Choose">
+                            </div>
+                            <div class="image-two">
+                                <img src="assets/images/services/why-choose2.jpg" alt="Why Choose">
+                            </div>
+                            <div class="why-choose-border-shape"></div>
+                            <div class="text-shape">
+                                <img class="text" src="assets/images/services/web-design-text.svg"
+                                    alt="Web Design Text">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </section>
         <!-- Why Choose Us end -->
-        
-        
+
+
         <!-- Headline area start -->
         <div class="headline-six-wrapper rel z-1 py-60 rpy-30">
             <div class="headline-area-six bgc-primary py-20 rpy-10">
                 <div class="container-fluid">
                     <div class="headline-wrap-two style-two">
                         <span class="marquee-wrap">
-                           <span class="marquee-inner left">
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital Marketing</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding Identity</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web Optimizations</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email Marketing</b></span>
-                           </span>
-                           <span class="marquee-inner left">
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital Marketing</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding Identity</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web Optimizations</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email Marketing</b></span>
-                           </span>
-                           <span class="marquee-inner left">
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital Marketing</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps Design</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding Identity</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web Optimizations</b></span>
-                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email Marketing</b></span>
-                           </span>
+                            <span class="marquee-inner left">
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital
+                                        Marketing</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product
+                                        Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps
+                                        Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding
+                                        Identity</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web
+                                        Optimizations</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email
+                                        Marketing</b></span>
+                            </span>
+                            <span class="marquee-inner left">
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital
+                                        Marketing</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product
+                                        Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps
+                                        Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding
+                                        Identity</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web
+                                        Optimizations</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email
+                                        Marketing</b></span>
+                            </span>
+                            <span class="marquee-inner left">
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Digital
+                                        Marketing</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Product
+                                        Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Mobile Apps
+                                        Design</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Branding
+                                        Identity</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Web
+                                        Optimizations</b></span>
+                                <span class="marquee-item"><i class="flaticon-star-symbol"></i><b>Email
+                                        Marketing</b></span>
+                            </span>
                         </span>
-                     </div>
+                    </div>
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </div>
         <!-- Headline Area end -->
-        
-        
+
+
         <!-- Projects Area start -->
         <section class="project-area-six pt-100 rpt-70 rel z-1">
             <div class="container">
-               <div class="row justify-content-center">
+                <div class="row justify-content-center">
                     <div class="col-lg-12">
                         <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-20">Recent Works Gallery</span>
@@ -681,8 +610,8 @@
                             <img src="assets/images/projects/project-six1.jpg" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.html">Product Design</a></h4>
-                            <a href="projects.html" class="category">Design, Branding</a>
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
                         </div>
                     </div>
                 </div>
@@ -692,8 +621,8 @@
                             <img src="assets/images/projects/project-six2.jpg" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.html">Product Design</a></h4>
-                            <a href="projects.html" class="category">Design, Branding</a>
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
                         </div>
                     </div>
                 </div>
@@ -703,8 +632,8 @@
                             <img src="assets/images/projects/project-six3.jpg" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.html">Product Design</a></h4>
-                            <a href="projects.html" class="category">Design, Branding</a>
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
                         </div>
                     </div>
                 </div>
@@ -714,8 +643,8 @@
                             <img src="assets/images/projects/project-six4.jpg" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.html">Product Design</a></h4>
-                            <a href="projects.html" class="category">Design, Branding</a>
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
                         </div>
                     </div>
                 </div>
@@ -725,20 +654,20 @@
                             <img src="assets/images/projects/project-six5.jpg" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.html">Product Design</a></h4>
-                            <a href="projects.html" class="category">Design, Branding</a>
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </section>
         <!-- Projects Area end -->
-        
-        
+
+
         <!-- Statistics Area start -->
         <div class="statistics-area pt-100 rpt-70 pb-70 rpb-40 rel z-1">
             <div class="container">
@@ -774,19 +703,20 @@
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </div>
         <!-- Statistics Area end -->
-        
-        
+
+
         <!-- Testimonial Area start -->
         <section class="testimonial-section-five rel z-1">
             <div class="container-fluid px-0">
                 <div class="row no-gap">
                     <div class="col-xl-6 wow fadeInRight delay-0-2s">
-                       <div class="testimonial-five-image" style="background-image: url(assets/images/testimonials/testimonials-five.jpg);"></div>
+                        <div class="testimonial-five-image"
+                            style="background-image: url(assets/images/testimonials/testimonials-five.jpg);"></div>
                     </div>
                     <div class="col-xl-6 align-self-center">
                         <div class="testimonial-five-right p-100 py-130 rpy-100 wow fadeInLeft delay-0-2s">
@@ -796,7 +726,10 @@
                             <div class="testimonials-active">
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous indignation and dislike men beguiled demoralized charms pleasure moments line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> On the other hand denounce with righteous
+                                            indignation and dislike men beguiled demoralized charms pleasure moments
+                                            line desire that they foresee pain and trouble that boon <span
+                                                class="quote right-quote">“</span></p>
                                     </div>
                                     <hr>
                                     <div class="testimonial-footer">
@@ -820,7 +753,10 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous indignation and dislike men beguiled demoralized charms pleasure moments line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> On the other hand denounce with righteous
+                                            indignation and dislike men beguiled demoralized charms pleasure moments
+                                            line desire that they foresee pain and trouble that boon <span
+                                                class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -843,7 +779,10 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous indignation and dislike men beguiled demoralized charms pleasure moments line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> On the other hand denounce with righteous
+                                            indignation and dislike men beguiled demoralized charms pleasure moments
+                                            line desire that they foresee pain and trouble that boon <span
+                                                class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -866,7 +805,10 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous indignation and dislike men beguiled demoralized charms pleasure moments line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> On the other hand denounce with righteous
+                                            indignation and dislike men beguiled demoralized charms pleasure moments
+                                            line desire that they foresee pain and trouble that boon <span
+                                                class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -897,12 +839,12 @@
             </div>
         </section>
         <!-- Testimonial Area end -->
-        
-        
+
+
         <!-- Blog Style Two start -->
         <section class="blog-area-two pt-125 rpt-100 pb-70 rpb-40 rel z-1">
-            <div class="container">
-               <div class="row justify-content-center">
+            <!-- <div class="container">
+                <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-9 col-md-11">
                         <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-20">Blog & News</span>
@@ -924,7 +866,8 @@
                                     </li>
                                 </ul>
                                 <hr>
-                                <h5><a href="blog-details.html">Voice Skills For Google Assistant And Amazon Alexa</a></h5>
+                                <h5><a href="blog-details.php">Voice Skills For Google Assistant And Amazon Alexa</a>
+                                </h5>
                             </div>
                         </div>
                     </div>
@@ -941,7 +884,8 @@
                                     </li>
                                 </ul>
                                 <hr>
-                                <h5><a href="blog-details.html">Voice Skills For Google Assistant And Amazon Alexa</a></h5>
+                                <h5><a href="blog-details.php">Voice Skills For Google Assistant And Amazon Alexa</a>
+                                </h5>
                             </div>
                         </div>
                     </div>
@@ -958,24 +902,25 @@
                                     </li>
                                 </ul>
                                 <hr>
-                                <h5><a href="blog-details.html">Voice Skills For Google Assistant And Amazon Alexa</a></h5>
+                                <h5><a href="blog-details.php">Voice Skills For Google Assistant And Amazon Alexa</a>
+                                </h5>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
-            </div>
+                <span></span><span></span>
+                <span></span><span></span>
+            </div> -->
         </section>
         <!-- Blog Style Two end -->
-        
-        
+
+
         <!-- Client Logo Two start -->
         <div class="client-logo-area pb-90 rpb-70 rel z-1">
             <div class="container">
-               <div class="row">
+                <div class="row">
                     <div class="col-xl-6 col-lg-8 col-md-10">
                         <div class="section-title mb-60 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-20">Global Clients</span>
@@ -984,144 +929,56 @@
                     </div>
                 </div>
                 <div class="client-logo-wrap-two">
-                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six1.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six2.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six3.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six4.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six5.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six6.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six7.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six8.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six9.png" alt="Client Logo">
                     </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.html">
+                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.php">
                         <img src="assets/images/client-logos/client-logo-six10.png" alt="Client Logo">
                     </a>
                 </div>
             </div>
             <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
+                <span></span><span></span>
+                <span></span><span></span>
             </div>
         </div>
         <!-- Client Logo Two end -->
-        
-        
+
+
         <!-- footer area start -->
-        <footer class="main-footer footer-six pt-80">
-            <div class="container">
-                <div class="row gap-80 justify-content-between">
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="footer-widget newsletter-widget wow fadeInUp delay-0-2s">
-                            <div class="footer-logo mb-20">
-                                <a href="index.html"><img src="assets/images/logos/footer-logo.png" alt="Logo"></a>
-                            </div>
-                            <div class="text mb-25">Ut enim ad minima veniam nostrum exercitationem ullam corporise</div>
-                            <form class="footer-newsletter" action="#">
-                                <input type="email" placeholder="Email Address" required>
-                                <button type="submit"><i class="far fa-long-arrow-right"></i></button>
-                            </form>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-2 col-md-3 col-6">
-                        <div class="footer-widget footer-links wow fadeInUp delay-0-3s">
-                            <h5 class="footer-title">Products</h5>
-                            <div class="footer-widget widget_nav_menu">
-                                <ul class="list-style-two">
-                                    <li><a href="#">Spectra</a></li>
-                                    <li><a href="#">MemberPress</a></li>
-                                    <li><a href="#">WPforms</a></li>
-                                    <li><a href="#">AIOSEO</a></li>
-                                    <li><a href="#">Wordfence</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-2 col-md-3 col-6">
-                        <div class="footer-widget footer-links wow fadeInUp delay-0-4s">
-                            <h5 class="footer-title">Resources</h5>
-                            <div class="footer-widget widget_nav_menu">
-                                <ul class="list-style-two">
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">My account</a></li>
-                                    <li><a href="#">Themes</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Checkout</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-3 col-sm-6">
-                        <div class="footer-widget footer-links wow fadeInUp delay-0-5s">
-                            <h5 class="footer-title">Supports</h5>
-                            <div class="footer-widget widget_nav_menu">
-                                <ul class="list-style-two">
-                                    <li><a href="#">Terms of Services</a></li>
-                                    <li><a href="#">Support Ticket</a></li>
-                                    <li><a href="#">Refund Policy</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
-                                    <li><a href="#">Video Tutorials</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="footer-widget footer-info wow fadeInUp delay-0-6s">
-                           <h5 class="footer-title">Contact</h5>
-                            <ul class="list-style-two">
-                                <li><i class="far fa-map-marker-alt"></i> <span>Baird House, 15-17 St Cross StLondon EC1N 8UW</span></li>
-                                <li><i class="far fa-envelope"></i> <a href="mailto:support@gmail.com">support@gmail.com</a></li>
-                                <li><i class="far fa-phone"></i> <a href="callto:+000(123)45688">+000 (123) 456 88</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="copyright-area rel mt-25 pt-35 pb-25">
-                    <div class="row">
-                        <div class="col-lg-6">
-                           <div class="footer-copyright-text wow fadeInUp delay-0-2s">
-                               <p>Copyright @2024, <a href="index.html">Spreadigit</a> All Rights Reserved</p>
-                           </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="footer-bottom-social text-lg-end wow fadeInRight delay-0-2s">
-                                <div class="social-style-two">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Scroll Top Button -->
-                    <button class="scroll-top scroll-to-target" data-target="html"><span class="far fa-chevron-double-up"></span></button>
-                </div>
-            </div>
-        </footer>
+       <?php 
+       include './partial/footer.php';
+       ?>
         <!-- footer area end -->
-        
+
     </div>
     <!--End pagewrapper-->
-   
-    
+
+
     <!-- Jquery -->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap -->
@@ -1146,4 +1003,5 @@
     <script src="assets/js/script.js"></script>
 
 </body>
+
 </html>
