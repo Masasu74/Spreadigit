@@ -711,7 +711,7 @@
                             <div class="testimonials-active">
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> Our experience with SpreadiGit was nothing short of fantastic. They were responsive, collaborative, and committed to delivering results. We're grateful for their expertise and look forward to continuing our partnership.<span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -719,8 +719,8 @@
                                                 <img src="assets/images/testimonials/author1.png" alt="Author Image">
                                             </div>
                                             <div class="author-info">
-                                                <h4>James N. Johnson</h4>
-                                                <span class="designation">CEO & Founder</span>
+                                                <h4>David Brown</h4>
+                                                <span class="designation">COO of Summit Enterprises</span>
                                             </div>
                                         </div>
                                         <div class="ratting style-two">
@@ -734,7 +734,7 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span>SpreadiGit provided exceptional service from start to finish. Their creativity and technical skills are unmatched, and they truly understand how to elevate a brand in the digital space. We're thrilled with the results!<span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -742,8 +742,8 @@
                                                 <img src="assets/images/testimonials/author1.png" alt="Author Image">
                                             </div>
                                             <div class="author-info">
-                                                <h4>James N. Johnson</h4>
-                                                <span class="designation">CEO & Founder</span>
+                                                <h4>Sarah Adams</h4>
+                                                <span class="designation">Founder of Sparkle Boutique</span>
                                             </div>
                                         </div>
                                         <div class="ratting style-two">
@@ -757,7 +757,7 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> I can't say enough about the professionalism and expertise of SpreadiGit and their team. They transformed our digital presence and helped us reach new heights. Thank you for your outstanding work!<span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -765,8 +765,8 @@
                                                 <img src="assets/images/testimonials/author1.png" alt="Author Image">
                                             </div>
                                             <div class="author-info">
-                                                <h4>James N. Johnson</h4>
-                                                <span class="designation">CEO & Founder</span>
+                                                <h4>Michael Smith</h4>
+                                                <span class="designation">Marketing Director at TechPro Solutions</span>
                                             </div>
                                         </div>
                                         <div class="ratting style-two">
@@ -780,7 +780,7 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> Working with SpreadiGit and their team was an absolute pleasure. Their attention to detail and dedication to bringing our vision to life exceeded our expectations. We highly recommend their services to anyone looking for top-notch digital solutions. <span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -788,8 +788,8 @@
                                                 <img src="assets/images/testimonials/author1.png" alt="Author Image">
                                             </div>
                                             <div class="author-info">
-                                                <h4>James N. Johnson</h4>
-                                                <span class="designation">CEO & Founder</span>
+                                                <h4>Emily Johnson</h4>
+                                                <span class="designation">CEO of Bright Ideas Inc.</span>
                                             </div>
                                         </div>
                                         <div class="ratting style-two">
@@ -896,7 +896,7 @@
 
 
         <!-- Client Logo Two start -->
-        <div class="client-logo-area pb-90 rpb-70 rel z-1">
+        <!-- <div class="client-logo-area pb-90 rpb-70 rel z-1">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 col-md-10">
@@ -943,7 +943,35 @@
                 <span></span><span></span>
                 <span></span><span></span>
             </div>
-        </div>
+        </div> -->
+
+        <section class="client-logo-area pt-130 rpt-100 pb-100 rpb-70">
+            <div class="container">
+                <div class="section-title text-center mb-60">
+                    <h4>We Have 1520+Global Clients</h4>
+                </div>
+                <div class="client-logo-wrap">
+                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.php">
+                        <img src="assets/images/client-logos/client-logo1.png" alt="Client Logo">
+                    </a>
+                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.php">
+                        <img src="assets/images/client-logos/client-logo2.png" alt="Client Logo">
+                    </a>
+                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.php">
+                        <img src="assets/images/client-logos/client-logo3.png" alt="Client Logo">
+                    </a>
+                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.php">
+                        <img src="assets/images/client-logos/client-logo4.png" alt="Client Logo">
+                    </a>
+                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.php">
+                        <img src="assets/images/client-logos/client-logo5.png" alt="Client Logo">
+                    </a>
+                    <a class="client-logo-item wow fadeInUp delay-0-7s" href="contact.php">
+                        <img src="assets/images/client-logos/client-logo6.png" alt="Client Logo">
+                    </a>
+                </div>
+            </div>
+        </section>
         <!-- Client Logo Two end -->
 
 

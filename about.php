@@ -118,7 +118,7 @@
                         <div class="client-text text-lg-start text-center mt-40 pb-50">
                         SpreadiGit is your digital success partner, offering graphic design, software development, and digital marketing services to ensure your business thrives in the digital age. Let's bring your vision to life and achieve lasting success together.
                                             </div>
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-xl-10">
                                 <div class="client-logo-wrap">
                                     <a class="client-logo-item" href="contact.php">
@@ -132,7 +132,7 @@
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-6 wow fadeInRight delay-0-2s">
                         <div class="video-year text-lg-end text-center rel">
@@ -153,7 +153,7 @@
                     <div class="col-lg-7">
                         <div class="section-title text-center mb-70 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-15">Who We Are</span>
-                            <h2>We are Professional and Experience Team </h2>
+                            <h2>We are a professional and experienced team dedicated to crafting exceptional digital solutions tailored to your needs. </h2>
                         </div>
                     </div>
                 </div>
@@ -162,27 +162,27 @@
                         <div class="why-choose-item style-two wow fadeInUp delay-0-2s">
                             <div class="why-choose-header">
                                 <i class="flaticon-creativity"></i>
-                                <h5>Customize your site</h5>
+                                <h5>Personalized Approach</h5>
                             </div>
-                            <p>At vero eos et accusamus iusto dignissim ducimuse blanditiis praesentiue</p>
+                            <p>We pride ourselves on our personalized approach to every project, tailoring our solutions to meet the specific needs and goals of each client.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="why-choose-item style-two wow fadeInUp delay-0-4s">
                             <div class="why-choose-header">
                                 <i class="flaticon-mobile-banking"></i>
-                                <h5>Edit your mobile view</h5>
+                                <h5>Creative Excellence</h5>
                             </div>
-                            <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit</p>
+                            <p>Our team of creative professionals is dedicated to delivering excellence in every aspect of our digital services, from design to implementation, ensuring innovative and impactful results.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="why-choose-item style-two wow fadeInUp delay-0-6s">
                             <div class="why-choose-header">
                                 <i class="flaticon-optimization-1"></i>
-                                <h5>Optimize search engines</h5>
+                                <h5>Continuous Innovation</h5>
                             </div>
-                            <p>Quis autem vel eum iure reprehenderi qui ea voluptate velit esse quam nihile</p>
+                            <p>We are committed to staying at the forefront of digital trends and technologies, constantly innovating and evolving to provide our clients with cutting-edge solutions that drive success in the digital realm.</p>
                         </div>
                     </div>
                 </div>
@@ -399,33 +399,7 @@
         
         
         <!-- Client Logo Two start -->
-        <section class="client-logo-area pt-130 rpt-100 pb-100 rpb-70">
-            <div class="container">
-                <div class="section-title text-center mb-60">
-                    <h4>We Have 1520+Global Clients</h4>
-                </div>
-                <div class="client-logo-wrap">
-                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.php">
-                        <img src="assets/images/client-logos/client-logo1.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.php">
-                        <img src="assets/images/client-logos/client-logo2.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.php">
-                        <img src="assets/images/client-logos/client-logo3.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.php">
-                        <img src="assets/images/client-logos/client-logo4.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.php">
-                        <img src="assets/images/client-logos/client-logo5.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-7s" href="contact.php">
-                        <img src="assets/images/client-logos/client-logo6.png" alt="Client Logo">
-                    </a>
-                </div>
-            </div>
-        </section>
+       
         <!-- Client Logo Two end -->
         <section class="faq-area pt-130 rpt-100 pb-130 rpb-75 rel z-1">
             <div class="container">

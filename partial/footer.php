@@ -33,10 +33,9 @@
                             <h5 class="footer-title">Pages</h5>
                             <div class="footer-widget widget_nav_menu">
                                 <ul class="list-style-two">
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Projects</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="../about.php">About Us</a></li>
+                                    <li><a href="../projects.php">Projects</a></li>
+                                    <li><a href="../contact.php">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
