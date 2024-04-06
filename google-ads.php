@@ -99,7 +99,10 @@
             </div>
         </section>
         <!-- Page Banner Section End -->
-        
+:.
+Design: 
+Develop:
+Deploy:      
         
         <!-- Services Page About Area start -->
         <section class="service-page-about py-130 rpy-100 rel z-1">
@@ -110,7 +113,7 @@
                             <img src="assets/images/about/service-page-about.jpg" alt="About">
                             <div class="service-about-box bgc-primary" style="background-image: url(assets/images/shapes/work-step-bg.png);">
                                 <a class="read-more" href="service-details.html"><i class="fal fa-arrow-right"></i></a>
-                                <h3><a href="service-details.html">Web Solutions Research and Idea Generate</a></h3>
+                                <h3><a href="service-details.html">Your Key to Standing Out</a></h3>
                             </div>
                         </div>
                     </div>
@@ -118,14 +121,15 @@
                         <div class="about-content wow fadeInUp delay-0-4s">
                             <div class="section-title mb-40">
                                 <span class="sub-title mb-15">What We Do</span>
-                                <h2>Special Solutions For Web Development</h2>
+                                <h2>Crafting Your Unique PPC Campaigns
+</h2>
                             </div>
                             <div class="content">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptat emey accusantium doloremque laudantium totam aperiam eaque quabillo inventore veritatisey quasi architecto beatae dictasunt</p>
+                                <p>Reach your target audience effectively with targeted Google Ads campaigns that drive traffic and conversions.</p>
                                 <ul class="list-style-three pt-15 pb-25">
-                                    <li>Web Design & Development</li>
-                                    <li>SEO Optimizations</li>
-                                    <li>Digital Product Design</li>
+                                     <li>Develop targeted ad campaigns.</li>
+      <li>Create compelling ad copy.</li>
+      <li>Monitor and optimize performance.</li>
                                 </ul>
                                 <a class="read-more mt-10 color-primary" href="contact.php">Learn More <i class="far fa-arrow-right"></i></a>
                             </div>
@@ -144,43 +148,43 @@
                     <span class="sub-title mb-15">How We Works</span>
                     <h2>Simple Step Follow to Complete Work</h2>
                     <div class="text mt-30">
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum</p>
+                        <p>Follow Our Simple Steps to Drive Results with Google Ads. From Strategy to Performance Tracking, We'll Be Your Partner Every Step of the Process.</p>
                     </div>
                 </div>
                 <div class="row gap-90">
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-2s">
                             <span class="step-number">Step 01</span>
-                            <h4 class="title">Idea Generate</h4>
+                            <h4 class="title">Discover</h4>
                             <div class="content">
-                                <p>Vero eos et accusamus iusto odio disimos</p>
+                                <p> Define advertising goals, target audience, and budget for Google Ads campaigns</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-3s">
                             <span class="step-number">Step 02</span>
-                            <h4 class="title">Plan & Design</h4>
+                            <h4 class="title"> Design</h4>
                             <div class="content">
-                                <p>Quis autems eum iures reprehen voluptate</p>
+                                <p>Create compelling ad copy and visual assets for Google Ads.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-4s">
                             <span class="step-number">Step 03</span>
-                            <h4 class="title">Project Testing</h4>
+                            <h4 class="title">Development</h4>
                             <div class="content">
-                                <p>To take example which ever undertakes</p>
+                                <p> Set up Google Ads campaigns, including keyword targeting and bidding strategies.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item arrow-none wow fadeInUp delay-0-5s">
                             <span class="step-number">Step 04</span>
-                            <h4 class="title">Got Results</h4>
+                            <h4 class="title">Deployment</h4>
                             <div class="content">
-                                <p>Avoids paine produces resultant pleasure</p>
+                                <p>Launch ads across relevant Google platforms and monitor performance metrics.  </p>
                             </div>
                         </div>
                     </div>

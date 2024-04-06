@@ -110,7 +110,7 @@
                             <img src="assets/images/about/service-page-about.jpg" alt="About">
                             <div class="service-about-box bgc-primary" style="background-image: url(assets/images/shapes/work-step-bg.png);">
                                 <a class="read-more" href="service-details.html"><i class="fal fa-arrow-right"></i></a>
-                                <h3><a href="service-details.html">Web Solutions Research and Idea Generate</a></h3>
+                                <h3><a href="service-details.html">Your Key to Standing Out</a></h3>
                             </div>
                         </div>
                     </div>
@@ -118,14 +118,15 @@
                         <div class="about-content wow fadeInUp delay-0-4s">
                             <div class="section-title mb-40">
                                 <span class="sub-title mb-15">What We Do</span>
-                                <h2>Special Solutions For Web Development</h2>
+                                <h2>Crafting Your Unique Website
+</h2>
                             </div>
                             <div class="content">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptat emey accusantium doloremque laudantium totam aperiam eaque quabillo inventore veritatisey quasi architecto beatae dictasunt</p>
+                                <p>Build a professional and responsive website that showcases your brand and drives engagement and conversions.</p>
                                 <ul class="list-style-three pt-15 pb-25">
-                                    <li>Web Design & Development</li>
-                                    <li>SEO Optimizations</li>
-                                    <li>Digital Product Design</li>
+                                       <li>Build custom websites.</li>
+      <li>Develop responsive interfaces.</li>
+      <li>Incorporate modern functionalities.</li>
                                 </ul>
                                 <a class="read-more mt-10 color-primary" href="contact.php">Learn More <i class="far fa-arrow-right"></i></a>
                             </div>
@@ -135,7 +136,9 @@
             </div>
         </section>
         <!-- Services Page About Area end -->
-        
+:
+:
+: .
         
         <!-- How We Works start -->
         <section class="how-we-works-area pb-100 rpb-70 rel z-1">
@@ -144,25 +147,25 @@
                     <span class="sub-title mb-15">How We Works</span>
                     <h2>Simple Step Follow to Complete Work</h2>
                     <div class="text mt-30">
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum</p>
+                        <p>Follow Our Simple Steps to Build Your Dream Website. From Blueprint to Launch, We'll Support You Every Step of the Way.</p>
                     </div>
                 </div>
                 <div class="row gap-90">
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-2s">
                             <span class="step-number">Step 01</span>
-                            <h4 class="title">Idea Generate</h4>
+                            <h4 class="title">Discover</h4>
                             <div class="content">
-                                <p>Vero eos et accusamus iusto odio disimos</p>
+                                <p> Understand your website's purpose, target audience, and desired features.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-3s">
                             <span class="step-number">Step 02</span>
-                            <h4 class="title">Plan & Design</h4>
+                            <h4 class="title">Design</h4>
                             <div class="content">
-                                <p>Quis autems eum iures reprehen voluptate</p>
+                                <p> Create a user-friendly and visually appealing website layout and interface.</p>
                             </div>
                         </div>
                     </div>
@@ -171,16 +174,17 @@
                             <span class="step-number">Step 03</span>
                             <h4 class="title">Project Testing</h4>
                             <div class="content">
-                                <p>To take example which ever undertakes</p>
+                                <p>Develop: Build and code the website using the latest web development technologies and best practices.
+</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item arrow-none wow fadeInUp delay-0-5s">
                             <span class="step-number">Step 04</span>
-                            <h4 class="title">Got Results</h4>
+                            <h4 class="title">Deploy</h4>
                             <div class="content">
-                                <p>Avoids paine produces resultant pleasure</p>
+                                <p>Launch the website, ensuring it is fully functional, responsive, and optimized for search engines.</p>
                             </div>
                         </div>
                     </div>

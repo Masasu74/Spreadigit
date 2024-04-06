@@ -697,49 +697,21 @@
 
 
         <!-- Testimonial Area start -->
-        <section class="testimonial-section-five rel z-1">
-            <div class="container-fluid px-0">
-                <div class="row no-gap">
-                    <div class="col-xl-6 wow fadeInRight delay-0-2s">
-                        <div class="testimonial-five-image" style="background-image: url(assets/images/testimonials/testimonials-five.jpg);"></div>
-                    </div>
-                    <div class="col-xl-6 align-self-center">
-                        <div class="testimonial-five-right p-100 py-130 rpy-100 wow fadeInLeft delay-0-2s">
-                            <div class="circle-logo-text w-50 mb-65 rmb-35">
-                                <img src="assets/images/about/circle-text.svg" alt="Circle Text">
-                            </div>
+        <section class="testimonial-section pt-70 rpt-30">
+            <div class="container container-1210">
+                <div class="row">
+                   <div class="col-lg-6">
+                       <div class="image-border-shape rmb-20 wow fadeInRight delay-0-2s">
+                           <img src="assets/images/testimonials/testimonials-four.jpg.png" alt="Testimonial Left Image">
+                           <div class="bottom-border"></div>
+                       </div>
+                   </div>
+                    <div class="col-lg-6">
+                        <div class="testimonial-one-right-part wow fadeInLeft delay-0-2s">
                             <div class="testimonials-active">
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous
-                                            indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
-                                    </div>
-                                    <hr>
-                                    <div class="testimonial-footer">
-                                        <div class="testimonial-author">
-                                            <div class="author-image">
-                                                <img src="assets/images/testimonials/author1.png" alt="Author Image">
-                                            </div>
-                                            <div class="author-info">
-                                                <h4>James N. Johnson</h4>
-                                                <span class="designation">CEO & Founder</span>
-                                            </div>
-                                        </div>
-                                        <div class="ratting style-two">
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half-alt"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="testimonial-item">
-                                    <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous
-                                            indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -762,9 +734,7 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous
-                                            indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -787,9 +757,30 @@
                                 </div>
                                 <div class="testimonial-item">
                                     <div class="author-speech">
-                                        <p><span class="quote">“</span> On the other hand denounce with righteous
-                                            indignation and dislike men beguiled demoralized charms pleasure moments
-                                            line desire that they foresee pain and trouble that boon <span class="quote right-quote">“</span></p>
+                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
+                                    </div>
+                                    <div class="testimonial-footer">
+                                        <div class="testimonial-author">
+                                            <div class="author-image">
+                                                <img src="assets/images/testimonials/author1.png" alt="Author Image">
+                                            </div>
+                                            <div class="author-info">
+                                                <h4>James N. Johnson</h4>
+                                                <span class="designation">CEO & Founder</span>
+                                            </div>
+                                        </div>
+                                        <div class="ratting style-two">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star-half-alt"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testimonial-item">
+                                    <div class="author-speech">
+                                        <p><span class="quote">“</span> On the other hand we denounce with see righteous indignation and dislike men who are beguiled and demoralized by the charms offset pleasure moments line desire that they cannot foresee pain and trouble that are bound ensue and equal blame belongs their duty <span class="quote right-quote">“</span></p>
                                     </div>
                                     <div class="testimonial-footer">
                                         <div class="testimonial-author">
@@ -811,8 +802,14 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="testimonial-controls mt-105 rmt-50">
-                                <div class="testimonial-dots mx-0"></div>
+                            <div class="testimonial-controls mt-75 rmt-40">
+                                <button class="testimonial-prev">
+                                    <i class="far fa-chevron-left"></i>
+                                </button>
+                                <div class="testimonial-dots"></div>
+                                <button class="testimonial-next">
+                                    <i class="far fa-chevron-right"></i>
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -823,8 +820,8 @@
 
 
         <!-- Blog Style Two start -->
-        <section class="blog-area-two pt-125 rpt-100 pb-70 rpb-40 rel z-1">
-            <!-- <div class="container">
+        <!-- <section class="blog-area-two pt-125 rpt-100 pb-70 rpb-40 rel z-1">
+            <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-9 col-md-11">
                         <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
@@ -893,8 +890,8 @@
             <div class="bg-lines">
                 <span></span><span></span>
                 <span></span><span></span>
-            </div> -->
-        </section>
+            </div>
+        </section> -->
         <!-- Blog Style Two end -->
 
 

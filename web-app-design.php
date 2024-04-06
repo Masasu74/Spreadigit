@@ -110,7 +110,7 @@
                             <img src="assets/images/about/service-page-about.jpg" alt="About">
                             <div class="service-about-box bgc-primary" style="background-image: url(assets/images/shapes/work-step-bg.png);">
                                 <a class="read-more" href="service-details.html"><i class="fal fa-arrow-right"></i></a>
-                                <h3><a href="service-details.html">Web Solutions Research and Idea Generate</a></h3>
+                                <h3><a href="service-details.html">Your Key to Standing Out</a></h3>
                             </div>
                         </div>
                     </div>
@@ -118,14 +118,16 @@
                         <div class="about-content wow fadeInUp delay-0-4s">
                             <div class="section-title mb-40">
                                 <span class="sub-title mb-15">What We Do</span>
-                                <h2>Special Solutions For Web Development</h2>
+                                <h2>Crafting Your Unique Web Design Experience
+</h2>
                             </div>
                             <div class="content">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptat emey accusantium doloremque laudantium totam aperiam eaque quabillo inventore veritatisey quasi architecto beatae dictasunt</p>
+                                <p>Create intuitive and visually stunning web app interfaces tailored to your business needs and user preferences.</p>
                                 <ul class="list-style-three pt-15 pb-25">
-                                    <li>Web Design & Development</li>
-                                    <li>SEO Optimizations</li>
-                                    <li>Digital Product Design</li>
+                                    <li>Create user-friendly interfaces.</li>
+      <li>Ensure compatibility across devices.</li>
+      <li>Incorporate modern design trends.</li>
+
                                 </ul>
                                 <a class="read-more mt-10 color-primary" href="contact.php">Learn More <i class="far fa-arrow-right"></i></a>
                             </div>
@@ -144,43 +146,44 @@
                     <span class="sub-title mb-15">How We Works</span>
                     <h2>Simple Step Follow to Complete Work</h2>
                     <div class="text mt-30">
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum</p>
+                        <p>Follow Our Simple Steps to Craft an Intuitive Web App Experience. From Ideation to Launch, We'll Be with You Every Step of the Journey.</p>
                     </div>
                 </div>
+            
                 <div class="row gap-90">
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-2s">
                             <span class="step-number">Step 01</span>
-                            <h4 class="title">Idea Generate</h4>
+                            <h4 class="title">Discover</h4>
                             <div class="content">
-                                <p>Vero eos et accusamus iusto odio disimos</p>
+                                <p> Explore the purpose and functionality of your web app, understanding user needs and preferences.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-3s">
                             <span class="step-number">Step 02</span>
-                            <h4 class="title">Plan & Design</h4>
+                            <h4 class="title">Design</h4>
                             <div class="content">
-                                <p>Quis autems eum iures reprehen voluptate</p>
+                                <p>Create intuitive and visually appealing designs for your web app interface.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item wow fadeInUp delay-0-4s">
                             <span class="step-number">Step 03</span>
-                            <h4 class="title">Project Testing</h4>
+                            <h4 class="title">Develop</h4>
                             <div class="content">
-                                <p>To take example which ever undertakes</p>
+                                <p>Convert design concepts into functional prototypes or wireframes.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="work-step-item arrow-none wow fadeInUp delay-0-5s">
                             <span class="step-number">Step 04</span>
-                            <h4 class="title">Got Results</h4>
+                            <h4 class="title">Deploy</h4>
                             <div class="content">
-                                <p>Avoids paine produces resultant pleasure</p>
+                                <p>Implement the finalized design into the development process.</p>
                             </div>
                         </div>
                     </div>
