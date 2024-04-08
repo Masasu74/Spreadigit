@@ -99,10 +99,7 @@
             </div>
         </section>
         <!-- Page Banner Section End -->
-:.
-Design: 
-Develop:
-Deploy:      
+
         
         <!-- Services Page About Area start -->
         <section class="service-page-about py-130 rpy-100 rel z-1">
@@ -110,7 +107,7 @@ Deploy:
                 <div class="row gap-90 align-items-center">
                     <div class="col-lg-6">
                         <div class="service-about-image rmb-55 wow fadeInUp delay-0-2s">
-                            <img src="assets/images/about/service-page-about.jpg" alt="About">
+                            <img src="assets/images/about/google-ads.jpg" alt="About">
                             <div class="service-about-box bgc-primary" style="background-image: url(assets/images/shapes/work-step-bg.png);">
                                 <a class="read-more" href="service-details.html"><i class="fal fa-arrow-right"></i></a>
                                 <h3><a href="service-details.html">Your Key to Standing Out</a></h3>

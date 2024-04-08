@@ -102,8 +102,7 @@
                     <div class="row no-gap">
                         <div class="col-xl-4">
                             <div class="left-image">
-                                <img src="assets/images/hero/hero-six1.png" alt="Hero">
-                            </div>
+                            <img src="assets/images/hero/hero-six1.png" alt="Hero">                            </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="hero-six-content">
@@ -139,47 +138,48 @@
                     <a class="service-five-item" href="service-details.php">
                         <span>Social Media Marketing</span>
                         <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
+                        <div class="image"><img src="assets/images/services/smm.jpeg" alt="Service"></div>
                     </a>
                     <a class="service-five-item" href="service-details.php">
                         <span>Google ads</span>
                         <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
+                        <div class="image"><img src="assets/images/services/google-ads.png" alt="Service"></div>
                     </a>
                     <a class="service-five-item" href="service-details.php">
                         <span>SEO</span>
                         <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
+                        <div class="image"><img src="assets/images/services/seo.png" alt="Service"></div>
                     </a>
 
                     <a class="service-five-item" href="service-details.php">
-                        <span>Poster Design</span>
+                        <span>Posters</span>
                         <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
-                    </a>
-                    <a class="service-five-item" href="service-details.php">
-                        <span>Web Design</span>
-                        <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
-                    </a>
-                    <a class="service-five-item" href="service-details.php">
-                        <span>Print Design</span>
-                        <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
-                    </a>
-
-                    <a class="service-five-item" href="service-details.php">
-                        <span>Web & Mobile App Development</span>
-                        <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
+                        <div class="image"><img src="assets/images/services/poster.jpeg" alt="Service"></div>
                     </a>
                     <a class="service-five-item" href="service-details.php">
 
                         <span>Brand Identity</span>
                         <i class="flaticon-star-symbol"></i>
-                        <div class="image"><img src="assets/images/services/service-five.png" alt="Service"></div>
+                        <div class="image"><img src="assets/images/services/brand-identity.jpg" alt="Service"></div>
                     </a>
 
+                    <a class="service-five-item" href="service-details.php">
+                        <span>Web Design</span>
+                        <i class="flaticon-star-symbol"></i>
+                        <div class="image"><img src="assets/images/services/web design.png" alt="Service"></div>
+                    </a>
+                    <a class="service-five-item" href="service-details.php">
+                        <span>Print Design</span>
+                        <i class="flaticon-star-symbol"></i>
+                        <div class="image"><img src="assets/images/services/print-design.jpeg" alt="Service"></div>
+                    </a>
+
+                    <a class="service-five-item" href="service-details.php">
+                        <span>Web & Mobile App Development</span>
+                        <i class="flaticon-star-symbol"></i>
+                        <div class="image"><img src="assets/images/services/web-dev.png" alt="Service"></div>
+                    </a>
+                    
                 </div>
             </div>
         </div>
@@ -675,14 +675,14 @@
                     <div class="col-xl-2 col-lg-3 col-6">
                         <div class="counter-item counter-text-wrap wow fadeInUp delay-0-4s">
                             <i class="fal fa-check-circle"></i>
-                            <span class="count-text" data-speed="3000" data-stop="48">0</span>
+                            <span class="count-text" data-speed="3000" data-stop="20">0</span>
                             <span class="counter-title">Professionals Team Member</span>
                         </div>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-6">
                         <div class="counter-item counter-text-wrap wow fadeInUp delay-0-5s">
                             <i class="fal fa-check-circle"></i>
-                            <span class="count-text" data-speed="3000" data-stop="92">0</span>
+                            <span class="count-text" data-speed="3000" data-stop="2">0</span>
                             <span class="counter-title">Awards Winning</span>
                         </div>
                     </div>
