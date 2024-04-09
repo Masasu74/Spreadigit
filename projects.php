@@ -112,105 +112,105 @@
                 <div class="project-item style-two">
                     <div class="image wow fadeInLeft delay-0-2s">
                         <img src="assets/images/projects/project-list4.png" alt="Project List" class="project-img">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/hose-store.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="content wow fadeInRight delay-0-2s">
-                        <a href="projects.php" class="category">Creative Work</a>
-                        <h2><a href="./project/project-details.php">Task Management <i>Dashboard</i></a></h2>
+                        <a  class="category">Mobile Design</a>
+                        <h2><a href="./projects/hose-store.php">Hose<i>Store</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Hose store is a e-commerce mobile application that sells electronic devices</p>
+                        <a class="read-more" href="../projects/hose-store.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="project-item style-two">
                     <div class="content wow fadeInLeft delay-0-2s">
-                        <a href="projects.php" class="category">Digital Product</a>
-                        <h2><a href="./project/project-details.php">Mobile Application <i>Development</i></a></h2>
+                        <a  class="category">Social Media Post</a>
+                        <h2><a href="./projects/dermomart.php">Dermomart <i>Graphics</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Dermomart's professional post that attract customers</p>
+                        <a class="read-more" href="./projects/dermomart.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="image wow fadeInRight delay-0-2s">
                         <img src="assets/images/projects/project-list2.png" alt="Project List">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/dermomart.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="project-item style-two">
                     <div class="image wow fadeInLeft delay-0-2s">
                         <img src="assets/images/projects/project-list3.png" alt="Project List">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/pull-up-banner.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="content wow fadeInRight delay-0-2s">
-                        <a href="projects.php" class="category">Creative Work</a>
-                        <h2><a href="./project/project-details.php">Product Design & <i>Branding</i></a></h2>
+                        <a  class="category">Print Design</a>
+                        <h2><a href="./projects/pull-up-banner.php">Hydration Therapy <i>Pull Banner</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Hydration Therapy Pull Banner</p>
+                        <a class="read-more" href="./projects/pull-up-banner.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="project-item style-two">
                     <div class="content wow fadeInLeft delay-0-2s">
-                        <a href="projects.php" class="category">Digital Product</a>
-                        <h2><a href="./project/project-details.php">Digital Content For <i>Web Development</i></a></h2>
+                        <a  class="category">Print Design</a>
+                        <h2><a href="./projects/sip-snack-menu.php">Sip & Snack <i>Menu</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Sip and Snack Coffee shop menu and loyalty cards</p>
+                        <a class="read-more" href="./projects/sip-snack-menu.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="image wow fadeInRight delay-0-2s">
                         <img src="assets/images/projects/project-list1.png" alt="Project List">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/sip-snack-menu.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="project-item style-two">
                     <div class="image wow fadeInLeft delay-0-2s">
                         <img src="assets/images/projects/project-list5.png" alt="Project List">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/zap.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="content wow fadeInRight delay-0-2s">
-                        <a href="projects.php" class="category">Creative Work</a>
-                        <h2><a href="./project/project-details.php">Product Design <i>& Branding</i></a></h2>
+                        <a class="category">Mobile Design</a>
+                        <h2><a href="./projects/zap.php">Zap <i>Mobile App</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Zap a mobile application designed to help any one earn with transportation</p>
+                        <a class="read-more" href="./projects/zap.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="project-item style-two">
                     <div class="content wow fadeInLeft delay-0-2s">
-                        <a href="projects.php" class="category">Digital Product</a>
-                        <h2><a href="./project/project-details.php">Digital Content For <i>Web Development</i></a></h2>
+                        <a  class="category">Web Development</a>
+                        <h2><a href="./projects/furniro-web.php">Furniro  <i>Website</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Furniro an e-commerce website used to purchase furniture online</p>
+                        <a class="read-more" href="./projects/furniro-web.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="image wow fadeInRight delay-0-2s">
                         <img src="assets/images/projects/project-list7.png" alt="Project List">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/furniro.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="project-item style-two">
                     <div class="image wow fadeInLeft delay-0-2s">
                         <img src="assets/images/projects/project-list6.png" alt="Project List">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/hose-venture.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="content wow fadeInRight delay-0-2s">
-                        <a href="projects.php" class="category">Creative Work</a>
-                        <h2><a href="./project/project-details.php">Product Design <i>& Branding</i></a></h2>
+                        <a  class="category">Mobile Design</a>
+                        <h2><a href="./projects/hose-venture.php">Hose <i>Venture</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Hose Venture a mobile application used to rent and purchase houses in rwanda</p>
+                        <a class="read-more" href="./projects/hose-venture.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="project-item style-two">
                     <div class="content wow fadeInLeft delay-0-2s">
-                        <a href="projects.php" class="category">Digital Product</a>
-                        <h2><a href="./project/project-details.php">Digital Content For <i>Web Development</i></a></h2>
+                        <a class="category">Print Design</a>
+                        <h2><a href="./projects/hydration-bc.php">Hydration Therapy <i> BC</i></a></h2>
                         <hr>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sitesy voluptatem accusantium doloremque lauda</p>
-                        <a class="read-more" href="./project/project-details.php">Project Details <i class="far fa-arrow-right"></i></a>
+                        <p>Hydration Therapy Business cards</p>
+                        <a class="read-more" href="./projects/hydration-bc.php">Project Details <i class="far fa-arrow-right"></i></a>
                     </div>
                     <div class="image wow fadeInRight delay-0-2s">
                         <img src="assets/images/projects/project-list9.png" alt="Project List">
-                        <a href="./project/project-details.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
+                        <a href="./projects/hydration-bc.php" class="project-btn"><i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

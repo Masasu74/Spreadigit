@@ -10,26 +10,26 @@
     <!-- Title -->
     <title>Spreadigit - Digital Agency</title>
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/favicon.png" type="image/x-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
     
     <!-- Flaticon -->
-    <link rel="stylesheet" href="assets/css/flaticon.min.css">
+    <link rel="stylesheet" href="../assets/css/flaticon.min.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="assets/css/fontawesome-5.14.0.min.css">
+    <link rel="stylesheet" href="../assets/css/fontawesome-5.14.0.min.css">
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
     <!-- Magnific Popup -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+    <link rel="stylesheet" href="../assets/css/magnific-popup.min.css">
     <!-- Nice Select -->
-    <link rel="stylesheet" href="assets/css/nice-select.min.css">
+    <link rel="stylesheet" href="../assets/css/nice-select.min.css">
     <!-- Animate -->
-    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
     <!-- Slick -->
-    <link rel="stylesheet" href="assets/css/slick.min.css">
+    <link rel="stylesheet" href="../assets/css/slick.min.css">
     <!-- Main Style -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
     
 </head>
 <body>
@@ -86,13 +86,13 @@
        
         
         <!-- Page Banner Section Start -->
-        <section class="page-banner pt-210 rpt-150 pb-25 rel z-1" style="background-image: url(assets/images/hero/hero-two-bg.png)">
+        <section class="page-banner pt-210 rpt-150 pb-25 rel z-1" style="background-image: url(../assets/images/hero/hero-two-bg.png)">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="hero-title style-two mb-100 rmb-50 wow fadeInUp delay-0-2s">
                          Print Design
-                           <img class="mxw-10 leaf" src="assets/images/banner/leaf.png" alt="Leaf">
+                           <img class="mxw-10 leaf" src="../assets/images/banner/leaf.png" alt="Leaf">
                         </h1>
                     </div>
                 </div>
@@ -107,8 +107,8 @@
                 <div class="row gap-90 align-items-center">
                     <div class="col-lg-6">
                         <div class="service-about-image rmb-55 wow fadeInUp delay-0-2s">
-                            <img src="assets/images/about/print-design.jpeg" alt="About">
-                            <div class="service-about-box bgc-primary" style="background-image: url(assets/images/shapes/work-step-bg.png);">
+                            <img src="../assets/images/about/print-design.jpeg" alt="About">
+                            <div class="service-about-box bgc-primary" style="background-image: url(../assets/images/shapes/work-step-bg.png);">
                                 <a class="read-more" href="service-details.html"><i class="fal fa-arrow-right"></i></a>
                                 <h3><a href="service-details.html">Your Key to Standing Out</a></h3>
                             </div>
@@ -197,7 +197,7 @@
         <!-- <div class="video-area-two rel z-1">
             <div class="container-fluid">
                 <div class="video-part style-two wow fadeInUp delay-0-2s">
-                    <img src="assets/images/video/video-two-bg.jpg" alt="Video">
+                    <img src="../assets/images/video/video-two-bg.jpg" alt="Video">
                     <a href="https://www.youtube.com/watch?v=9Y7ma241N8k" class="mfp-iframe video-play"><i class="fas fa-play"></i></a>
                 </div>
             </div>
@@ -306,10 +306,10 @@
                     </div>
                     <div class="col-xl-6">
                        <div class="why-choose-right style-two wow fadeInLeft delay-0-2s">
-                           <img src="assets/images/services/why-choose-right-two.jpg" alt="Why Choose Right">
+                           <img src="../assets/images/services/why-choose-right-two.jpg" alt="Why Choose Right">
                            <div class="why-choose-border-shape"></div>
                            <div class="text-shape">
-                               <img class="text" src="assets/images/services/web-design-text-two.svg" alt="Web Design Text">
+                               <img class="text" src="../assets/images/services/web-design-text-two.svg" alt="Web Design Text">
                            </div>
                        </div>
                     </div>
@@ -325,7 +325,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                        <div class="faq-iamge-part rmb-55 wow fadeInLeft delay-0-2s">
-                           <img src="assets/images/faqs/faq.png" alt="FAQs">
+                           <img src="../assets/images/faqs/faq.png" alt="FAQs">
                        </div>
                     </div>
                     <div class="col-lg-8">
@@ -471,27 +471,27 @@
    
     
     <!-- Jquery -->
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
     <!-- Appear Js -->
-    <script src="assets/js/appear.min.js"></script>
+    <script src="../assets/js/appear.min.js"></script>
     <!-- Slick -->
-    <script src="assets/js/slick.min.js"></script>
+    <script src="../assets/js/slick.min.js"></script>
     <!-- Magnific Popup -->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
     <!-- Nice Select -->
-    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="../assets/js/jquery.nice-select.min.js"></script>
     <!-- Image Loader -->
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
     <!-- Circle Progress -->
-    <script src="assets/js/circle-progress.min.js"></script>
+    <script src="../assets/js/circle-progress.min.js"></script>
     <!-- Isotope -->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="../assets/js/isotope.pkgd.min.js"></script>
     <!--  WOW Animation -->
-    <script src="assets/js/wow.min.js"></script>
+    <script src="../assets/js/wow.min.js"></script>
     <!-- Custom script -->
-    <script src="assets/js/script.js"></script>
+    <script src="../assets/js/script.js"></script>
 
 </body>
 </html>

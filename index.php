@@ -135,47 +135,47 @@
         <div id="services" class="services-area-five bgc-primary pt-80 pb-50">
             <div class="container">
                 <div class="services-five-wrapper">
-                    <a class="service-five-item" href="service-details.php">
+                    <a class="service-five-item" href="./services/social-media-marketing.php">
                         <span>Social Media Marketing</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/smm.jpeg" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.php">
+                    <a class="service-five-item" href="./services/google-ads.php">
                         <span>Google ads</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/google-ads.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.php">
+                    <a class="service-five-item" href="./services/seo.php">
                         <span>SEO</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/seo.png" alt="Service"></div>
                     </a>
 
-                    <a class="service-five-item" href="service-details.php">
+                    <a class="service-five-item" href="./services/social-media-post.php">
                         <span>Posters</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/poster.jpeg" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.php">
+                    <a class="service-five-item" href="./services/brand-identity.php">
 
                         <span>Brand Identity</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/brand-identity.jpg" alt="Service"></div>
                     </a>
 
-                    <a class="service-five-item" href="service-details.php">
+                    <a class="service-five-item" href="./services/web-app-design.php">
                         <span>Web Design</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/web design.png" alt="Service"></div>
                     </a>
-                    <a class="service-five-item" href="service-details.php">
+                    <a class="service-five-item" href="./services/print-design.php">
                         <span>Print Design</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/print-design.jpeg" alt="Service"></div>
                     </a>
 
-                    <a class="service-five-item" href="service-details.php">
-                        <span>Web & Mobile App Development</span>
+                    <a class="service-five-item" href="./services/mobile-app-development.php">
+                        <span>Mobile App Development</span>
                         <i class="flaticon-star-symbol"></i>
                         <div class="image"><img src="assets/images/services/web-dev.png" alt="Service"></div>
                     </a>
@@ -258,8 +258,8 @@
                             <img src="assets/images/projects/project-list4.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/hose-store.php">Hose Store</a></h4>
+                            <a href="./services/mobile-app-design.php" class="category">Mobile App Design</a>
                         </div>
                     </div>
                 </div>
@@ -269,19 +269,19 @@
                             <img src="assets/images/projects/project-list2.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/dermomart.php">Dermomart Graphics</a></h4>
+                            <a href="./services/social-media-post.php" class="category">Social Media Post</a>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="project-item style-five wow fadeInUp delay-0-4s">
                         <div class="image">
-                            <img src="assets/images/projects/project-list8.png" alt="Project">
+                            <img src="assets/images/projects/project-list3.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/pull-up-banner.php">HT Pull Up Banner</a></h4>
+                            <a href="./services/print-design.php" class="category">Print Design</a>
                         </div>
                     </div>
                 </div>
@@ -291,8 +291,8 @@
                             <img src="assets/images/projects/project-list5.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/zap.php">Zap </a></h4>
+                            <a href="./services/mobile-app-design.php" class="category">Mobile Design</a>
                         </div>
                     </div>
                 </div>
@@ -302,8 +302,8 @@
                             <img src="assets/images/projects/project-list1.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/sip-snack-menu.php">Sip & Snack Menu</a></h4>
+                            <a href="./services/print-design.php" class="category">Print Design</a>
                         </div>
                     </div>
                 </div>
@@ -313,8 +313,8 @@
                             <img src="assets/images/projects/project-list7.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/furniro-web.php">Furniro</a></h4>
+                            <a href="projects/furniro-web.php" class="category">Web Dev</a>
                         </div>
                     </div>
                 </div>
@@ -324,8 +324,8 @@
                             <img src="assets/images/projects/project-list6.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/hose-venture.php">Hose Venture</a></h4>
+                            <a href="./services/mobile-app-design" class="category">Mobile App Design</a>
                         </div>
                     </div>
                 </div>
@@ -335,8 +335,8 @@
                             <img src="assets/images/projects/project-list9.png" alt="Project">
                         </div>
                         <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
+                            <h4><a href="./projects/hydration-bc.php">Hydration BC</a></h4>
+                            <a href="./services/print-design.php" class="category">Printing Design</a>
                         </div>
                     </div>
                 </div>
