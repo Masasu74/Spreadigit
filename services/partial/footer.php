@@ -4,7 +4,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="footer-widget newsletter-widget wow fadeInUp delay-0-2s">
                             <div class="footer-logo mb-20">
-                                <a href="./"><img src="assets/images/logos/footer-logo.png" alt="Logo"></a>
+                                <a href="./"><img src="../assets/images/logos/footer-logo.png" alt="Logo"></a>
                             </div>
                             <div class="text mb-25">Your Partner in Digital Success. Tailored solutions to elevate your business. 
                             </div>

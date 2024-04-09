@@ -9939,3 +9939,11 @@ blockquote {
             width:271px ;
             height: 97;
           }
+
+          .project-img{
+            width: 20px;
+          }
+
+          .lolo{
+            scale: 0.7;
+          }

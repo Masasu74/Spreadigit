@@ -10,26 +10,26 @@
     <!-- Title -->
     <title>Spreadigit - Digital Agency</title>
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/favicon.png" type="image/x-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
     
     <!-- Flaticon -->
-    <link rel="stylesheet" href="assets/css/flaticon.min.css">
+    <link rel="stylesheet" href="../assets/css/flaticon.min.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="assets/css/fontawesome-5.14.0.min.css">
+    <link rel="stylesheet" href="../assets/css/fontawesome-5.14.0.min.css">
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
     <!-- Magnific Popup -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+    <link rel="stylesheet" href="../assets/css/magnific-popup.min.css">
     <!-- Nice Select -->
-    <link rel="stylesheet" href="assets/css/nice-select.min.css">
+    <link rel="stylesheet" href="../assets/css/nice-select.min.css">
     <!-- Animate -->
-    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
     <!-- Slick -->
-    <link rel="stylesheet" href="assets/css/slick.min.css">
+    <link rel="stylesheet" href="../assets/css/slick.min.css">
     <!-- Main Style -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
     
 </head>
 <body>
@@ -86,13 +86,13 @@
        
         
         <!-- Page Banner Section Start -->
-        <section class="page-banner pt-210 rpt-150 pb-75 rel z-1" style="background-image: url(assets/images/hero/hero-two-bg.png)">
+        <section class="page-banner pt-210 rpt-150 pb-75 rel z-1" style="background-image: url(../assets/images/hero/hero-two-bg.png)">
             <div class="container container-1290">
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="hero-title style-two mt-65 mb-30 wow fadeInUp delay-0-2s">
                            Software Development
-                           <img class="mxw-10 leaf" src="assets/images/banner/leaf-small.png" alt="Leaf">
+                           <img class="mxw-10 leaf" src="../assets/images/banner/leaf-small.png" alt="Leaf">
                         </h1>
                         <div class="banner-text wow fadeInUp delay-0-3s">
                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaqu quae abillo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eosqui ratione voluptatem sequi nesciunt. Neque porro quisquam est dolorem epsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi temporae
@@ -108,7 +108,7 @@
         <div class="project-details-image rel z-1">
             <div class="container-fluid">
                 <div class="image wow fadeInUp delay-0-2s">
-                    <img src="assets/images/projects/project-details.jpg" alt="Project">
+                    <img src="../assets/images/projects/project-details.png" alt="Project">
                 </div>
             </div>
         </div>
@@ -157,12 +157,12 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="image mb-30 wow fadeInUp delay-0-2s">
-                            <img src="assets/images/projects/project-middle1.jpg" alt="Project">
+                            <img src="../assets/images/projects/project-middle1.jpg" alt="Project">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="image mb-30 wow fadeInUp delay-0-4s">
-                            <img src="assets/images/projects/project-middle2.jpg" alt="Project">
+                            <img src="../assets/images/projects/project-middle2.jpg" alt="Project">
                         </div>
                     </div>
                 </div>
@@ -188,7 +188,7 @@
                 <div class="next-prev-post pt-110 rpt-80 pb-100 rpb-70">
                     <div class="prev-post wow fadeInLeft delay-0-2s">
                         <div class="image">
-                            <img src="assets/images/projects/prev-project.jpg" alt="Prev">
+                            <img src="../assets/images/projects/prev-project.jpg" alt="Prev">
                         </div>
                         <div class="content">
                             <h4><a href="project-details.html">Digital Product Design</a></h4>
@@ -201,7 +201,7 @@
                             <a class="read-more" href="project-details.html">Next <i class="far fa-arrow-right"></i></a>
                         </div>
                         <div class="image">
-                            <img src="assets/images/projects/next-project.jpg" alt="Next">
+                            <img src="../assets/images/projects/next-project.jpg" alt="Next">
                         </div>
                     </div>
                 </div>
@@ -225,27 +225,27 @@
    
     
     <!-- Jquery -->
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
     <!-- Appear Js -->
-    <script src="assets/js/appear.min.js"></script>
+    <script src="../assets/js/appear.min.js"></script>
     <!-- Slick -->
-    <script src="assets/js/slick.min.js"></script>
+    <script src="../assets/js/slick.min.js"></script>
     <!-- Magnific Popup -->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
     <!-- Nice Select -->
-    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="../assets/js/jquery.nice-select.min.js"></script>
     <!-- Image Loader -->
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
     <!-- Circle Progress -->
-    <script src="assets/js/circle-progress.min.js"></script>
+    <script src="../assets/js/circle-progress.min.js"></script>
     <!-- Isotope -->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="../assets/js/isotope.pkgd.min.js"></script>
     <!--  WOW Animation -->
-    <script src="assets/js/wow.min.js"></script>
+    <script src="../assets/js/wow.min.js"></script>
     <!-- Custom script -->
-    <script src="assets/js/script.js"></script>
+    <script src="../assets/js/script.js"></script>
 
 </body>
 </html>

@@ -239,7 +239,114 @@
             </div>
         </section>
         <!-- About Us Area end -->
-
+<!-- Projects Area start -->
+<section class="project-area-six pt-100 rpt-70 rel z-1">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-12">
+                        <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
+                            <span class="sub-title mb-20">Recent Works Gallery</span>
+                            <h2>Lat’s Look Our Recent Project Gallery</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row row-cols-xl-4 row-cols-lg-3 row-cols-sm-2 row-cols-1">
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-2s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list4.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-3s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list2.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-4s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list8.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-5s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list5.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-6s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list1.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-6s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list7.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-6s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list6.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="project-item style-five wow fadeInUp delay-0-6s">
+                        <div class="image">
+                            <img src="assets/images/projects/project-list9.png" alt="Project">
+                        </div>
+                        <div class="content">
+                            <h4><a href="project-details.php">Product Design</a></h4>
+                            <a href="projects.php" class="category">Design, Branding</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-lines">
+                <span></span><span></span>
+                <span></span><span></span>
+            </div>
+        </section>
+        <!-- Projects Area end -->
 
         <!-- Services Area start -->
         <section class="services-area-six pb-100 rpb-70 rel z-1">
@@ -453,8 +560,16 @@
         <!-- Team Area end -->
 
 
-        <!-- Why Choose Us start -->
-        <section class="demo-area pb-60 rel z-1">
+  
+
+    
+
+        <!-- Headline area start -->
+        
+        <!-- Headline Area end -->
+
+      <!-- Why Choose Us start -->
+      <section class="demo-area pb-60 rel z-1">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-8">
@@ -525,9 +640,6 @@
             </div>
         </section>
         <!-- Why Choose Us end -->
-
-
-        <!-- Headline area start -->
         <div class="headline-six-wrapper rel z-1 py-60 rpy-30">
             <div class="headline-area-six bgc-primary py-20 rpy-10">
                 <div class="container-fluid">
@@ -574,84 +686,6 @@
                 <span></span><span></span>
             </div>
         </div>
-        <!-- Headline Area end -->
-
-
-        <!-- Projects Area start -->
-        <section class="project-area-six pt-100 rpt-70 rel z-1">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
-                            <span class="sub-title mb-20">Recent Works Gallery</span>
-                            <h2>Lat’s Look Our Recent Project Gallery</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row row-cols-xl-4 row-cols-lg-3 row-cols-sm-2 row-cols-1">
-                <div class="col">
-                    <div class="project-item style-five wow fadeInUp delay-0-2s">
-                        <div class="image">
-                            <img src="assets/images/projects/project-six1.jpg" alt="Project">
-                        </div>
-                        <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-item style-five wow fadeInUp delay-0-3s">
-                        <div class="image">
-                            <img src="assets/images/projects/project-six2.jpg" alt="Project">
-                        </div>
-                        <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-item style-five wow fadeInUp delay-0-4s">
-                        <div class="image">
-                            <img src="assets/images/projects/project-six3.jpg" alt="Project">
-                        </div>
-                        <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-item style-five wow fadeInUp delay-0-5s">
-                        <div class="image">
-                            <img src="assets/images/projects/project-six4.jpg" alt="Project">
-                        </div>
-                        <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-item style-five wow fadeInUp delay-0-6s">
-                        <div class="image">
-                            <img src="assets/images/projects/project-six5.jpg" alt="Project">
-                        </div>
-                        <div class="content">
-                            <h4><a href="project-details.php">Product Design</a></h4>
-                            <a href="projects.php" class="category">Design, Branding</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="bg-lines">
-                <span></span><span></span>
-                <span></span><span></span>
-            </div>
-        </section>
-        <!-- Projects Area end -->
 
 
         <!-- Statistics Area start -->
