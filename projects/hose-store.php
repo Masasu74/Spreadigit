@@ -126,7 +126,7 @@
                         <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1">
                             <div class="col">
                                 <h5>Client</h5>
-                                <p class="sub-title mb-20">Webtend Digital Studio</p>
+                                <p class="sub-title mb-20">Hose LTD</p>
                             </div>
                             <div class="col">
                                 <h5>Category</h5>
@@ -138,7 +138,7 @@
                             </div>
                             <div class="col">
                                 <h5>Location</h5>
-                                <p class="sub-title mb-20">Melbourne, Australia</p>
+                                <p class="sub-title mb-20">Kigali,Rwanda</p>
                             </div>
                         </div>
                     </div>
@@ -150,19 +150,19 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="big-letter text">
-                            mAt vero eos et accusamus etiusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi occaecati cupiditate similique sunin culpa qui officia deserunt mollitia animi est laborum et dolorum fuga. Et harum quidem rerum facilis esty expedita distinctio. Nam libero tempore cum soluta nobis est eligendi optio cumquey nihil impedit quo minus quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earume
+                        In a busy part of town, there's a store selling all sorts of cool gadgets like phones and laptops. But lately, they've been having a tough time getting people to buy their stuff. With so many options online and new gadgets coming out all the time, it's been hard to keep up. Other stores selling similar things are also giving them a run for their money. But they're not giving up! They're trying new ideas to get people excited about their gadgets again and bring in more customers.
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="image mb-30 wow fadeInUp delay-0-2s">
-                            <img src="../assets/images/projects/project-middle1.jpg" alt="Project">
+                            <img src="../assets/images/projects/project-middle1.png" alt="Project">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="image mb-30 wow fadeInUp delay-0-4s">
-                            <img src="../assets/images/projects/project-middle2.jpg" alt="Project">
+                            <img src="../assets/images/projects/project-middle2.png" alt="Project">
                         </div>
                     </div>
                 </div>
@@ -172,7 +172,8 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="text">
-                            We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.
+                            
+To tackle the challenge of selling electronic devices, we, at Spreadigit Company, devised a smart solution: we built an e-commerce mobile app. This app became our store's digital counterpart, bringing our gadgets directly to customers' fingertips, anytime, anywhere. With the app, users could browse through our extensive inventory of electronic wonders, from smartphones to laptops, with ease and convenience. We made sure to create a user-friendly interface, making shopping a breeze for even the least tech-savvy customers. By leveraging the power of mobile technology, we expanded our reach beyond the confines of our physical store, tapping into a vast pool of potential customers. Through strategic marketing efforts and seamless integration with online payment systems, we streamlined the purchasing process, turning casual browsers into loyal customers. Our e-commerce app became the cornerstone of our success, revitalizing sales and propelling our store into the digital age with confidence and flair.
                         </div>
                     </div>
                 </div>
@@ -183,7 +184,7 @@
         
         
         <!-- Next Prev Post Area start -->
-        <section class="next-prev-post-area">
+        <!-- <section class="next-prev-post-area">
             <div class="container container-1290">
                 <div class="next-prev-post pt-110 rpt-80 pb-100 rpb-70">
                     <div class="prev-post wow fadeInLeft delay-0-2s">
@@ -206,7 +207,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Next Prev Post Area end -->
         
         

@@ -126,19 +126,19 @@
                         <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1">
                             <div class="col">
                                 <h5>Client</h5>
-                                <p class="sub-title mb-20">Webtend Digital Studio</p>
+                                <p class="sub-title mb-20">Dermomart Rwanda</p>
                             </div>
                             <div class="col">
                                 <h5>Category</h5>
-                                <p class="sub-title mb-20">Web Development</p>
+                                <p class="sub-title mb-20">Social Media Post Design</p>
                             </div>
                             <div class="col">
                                 <h5>Date</h5>
-                                <p class="sub-title mb-20">February 25, 2023</p>
+                                <p class="sub-title mb-20">November 25, 2023</p>
                             </div>
                             <div class="col">
                                 <h5>Location</h5>
-                                <p class="sub-title mb-20">Melbourne, Australia</p>
+                                <p class="sub-title mb-20">Rwanda, Kigali</p>
                             </div>
                         </div>
                     </div>
@@ -150,21 +150,21 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="big-letter text">
-                            mAt vero eos et accusamus etiusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi occaecati cupiditate similique sunin culpa qui officia deserunt mollitia animi est laborum et dolorum fuga. Et harum quidem rerum facilis esty expedita distinctio. Nam libero tempore cum soluta nobis est eligendi optio cumquey nihil impedit quo minus quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earume
+                        Dermomart Company found itself at a crossroads when it came to advertising their products on Instagram. Despite offering high-quality skincare solutions, they encountered a significant hurdle in effectively reaching their target audience on the platform. The challenge stemmed from the fierce competition in the beauty and skincare industry, where countless brands vied for attention in users' feeds. Moreover, Instagram's ever-changing algorithms posed a constant challenge, making it difficult for Dermomart's posts to gain visibility and engagement organically. Additionally, the company struggled to create captivating content that would resonate with their audience amidst the flood of visually appealing posts saturating users' timelines. As a result, their advertising efforts on Instagram failed to yield the desired impact, leaving Dermomart searching for innovative strategies to break through the noise and connect with potential customers in a meaningful way.
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="">
                         <div class="image mb-30 wow fadeInUp delay-0-2s">
-                            <img src="../assets/images/projects/project-middle1.jpg" alt="Project">
+                            <img src="../assets/images/projects/project-middle3.png" alt="Project">
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                         <div class="image mb-30 wow fadeInUp delay-0-4s">
                             <img src="../assets/images/projects/project-middle2.jpg" alt="Project">
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="row pt-40 pb-105 rpb-80 wow fadeInUp delay-0-2s">
                     <div class="col-lg-4">
@@ -172,7 +172,8 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="text">
-                            We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.
+                            
+To overcome the advertising challenge faced by Dermomart Company on Instagram, Spreadigit stepped in with a game-changing solution: creating stunning graphics that captivated users' attention and drove engagement. Leveraging our expertise in digital marketing and design, we crafted visually compelling content tailored specifically to Dermomart's target audience. By employing eye-catching imagery, vibrant colors, and engaging visuals, we ensured that Dermomart's posts stood out amidst the clutter of the platform. Each graphic was meticulously designed to highlight the unique selling points of Dermomart's skincare products, showcasing their effectiveness and appeal. Moreover, we strategically integrated relevant hashtags and compelling captions to maximize reach and encourage user interaction. The result was a series of Instagram posts that not only grabbed users' attention but also fostered a sense of connection and trust with the Dermomart brand. As a result of our efforts, Dermomart witnessed a significant increase in engagement, brand awareness, and ultimately, sales, solidifying their presence on Instagram as a go-to destination for premium skincare solutions.
                         </div>
                     </div>
                 </div>
@@ -183,7 +184,7 @@
         
         
         <!-- Next Prev Post Area start -->
-        <section class="next-prev-post-area">
+        <!-- <section class="next-prev-post-area">
             <div class="container container-1290">
                 <div class="next-prev-post pt-110 rpt-80 pb-100 rpb-70">
                     <div class="prev-post wow fadeInLeft delay-0-2s">
@@ -206,7 +207,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Next Prev Post Area end -->
         
         

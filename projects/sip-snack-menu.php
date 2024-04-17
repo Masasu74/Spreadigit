@@ -126,19 +126,19 @@
                         <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1">
                             <div class="col">
                                 <h5>Client</h5>
-                                <p class="sub-title mb-20">Webtend Digital Studio</p>
+                                <p class="sub-title mb-20">Sip & Snack Coffee Shop</p>
                             </div>
                             <div class="col">
                                 <h5>Category</h5>
-                                <p class="sub-title mb-20">Web Development</p>
+                                <p class="sub-title mb-20">Print Design</p>
                             </div>
                             <div class="col">
                                 <h5>Date</h5>
-                                <p class="sub-title mb-20">February 25, 2023</p>
+                                <p class="sub-title mb-20">February 25, 2024</p>
                             </div>
                             <div class="col">
                                 <h5>Location</h5>
-                                <p class="sub-title mb-20">Melbourne, Australia</p>
+                                <p class="sub-title mb-20">Kigali,Rwanda</p>
                             </div>
                         </div>
                     </div>
@@ -150,8 +150,8 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="big-letter text">
-                            mAt vero eos et accusamus etiusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi occaecati cupiditate similique sunin culpa qui officia deserunt mollitia animi est laborum et dolorum fuga. Et harum quidem rerum facilis esty expedita distinctio. Nam libero tempore cum soluta nobis est eligendi optio cumquey nihil impedit quo minus quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earume
-                        </div>
+
+                        Sip and Snack Coffee Shop faced a challenge in finding a design company to create a menu that captured their brand essence and showcased their diverse offerings effectively. Despite their search, they struggled to find a partner who could balance visual appeal with practicality while reflecting the shop's unique atmosphere and personality.                        </div>
                     </div>
                 </div>
                 <div class="row">
@@ -172,8 +172,8 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="text">
-                            We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.
-                        </div>
+                           
+Spreadigit emerged as the solution for Sip and Snack Coffee Shop's menu design needs. We crafted an exclusive menu that perfectly captured the essence of their brand while showcasing their diverse offerings in a visually appealing and user-friendly format.
                     </div>
                 </div>
                 <hr>
@@ -183,7 +183,7 @@
         
         
         <!-- Next Prev Post Area start -->
-        <section class="next-prev-post-area">
+        <!-- <section class="next-prev-post-area">
             <div class="container container-1290">
                 <div class="next-prev-post pt-110 rpt-80 pb-100 rpb-70">
                     <div class="prev-post wow fadeInLeft delay-0-2s">
@@ -206,7 +206,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Next Prev Post Area end -->
         
         

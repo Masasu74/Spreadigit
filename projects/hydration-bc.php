@@ -125,19 +125,19 @@
                         <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1">
                             <div class="col">
                                 <h5>Client</h5>
-                                <p class="sub-title mb-20">Webtend Digital Studio</p>
+                                <p class="sub-title mb-20">Hydration Therapy</p>
                             </div>
                             <div class="col">
                                 <h5>Category</h5>
-                                <p class="sub-title mb-20">Web Development</p>
+                                <p class="sub-title mb-20">Print Design</p>
                             </div>
                             <div class="col">
                                 <h5>Date</h5>
-                                <p class="sub-title mb-20">February 25, 2023</p>
+                                <p class="sub-title mb-20">February 29, 2023</p>
                             </div>
                             <div class="col">
                                 <h5>Location</h5>
-                                <p class="sub-title mb-20">Melbourne, Australia</p>
+                                <p class="sub-title mb-20">Kigali,Rwanda</p>
                             </div>
                         </div>
                     </div>
@@ -149,21 +149,20 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="big-letter text">
-                            mAt vero eos et accusamus etiusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi occaecati cupiditate similique sunin culpa qui officia deserunt mollitia animi est laborum et dolorum fuga. Et harum quidem rerum facilis esty expedita distinctio. Nam libero tempore cum soluta nobis est eligendi optio cumquey nihil impedit quo minus quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earume
-                        </div>
+                        Hydration Therapy faced a significant challenge in their quest to advertise their program effectively: they struggled to establish a cohesive brand identity that resonated with their target audience. Despite offering a unique and beneficial service, which provided hydration solutions tailored to individual needs, the company found themselves at a loss when it came to defining their brand's personality and voice. This lack of a clear brand identity hindered their advertising efforts, as they were unable to convey a consistent message to potential customers. Moreover, without a strong brand presence, Hydration Therapy struggled to differentiate themselves from competitors in the increasingly crowded market of wellness services. Their attempts at advertising often fell flat, lacking the emotional connection and authenticity needed to truly engage with consumers. As a result, they found themselves in a frustrating cycle of trial and error, unable to find a marketing approach that effectively communicated the value of their hydration program.                        </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="">
                         <div class="image mb-30 wow fadeInUp delay-0-2s">
-                            <img src="../assets/images/projects/project-middle1.jpg" alt="Project">
+                            <img src="../assets/images/projects/bc.png" alt="Project">
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                         <div class="image mb-30 wow fadeInUp delay-0-4s">
                             <img src="../assets/images/projects/project-middle2.jpg" alt="Project">
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="row pt-40 pb-105 rpb-80 wow fadeInUp delay-0-2s">
                     <div class="col-lg-4">
@@ -171,7 +170,13 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="text">
-                            We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.
+                        In response to Hydration Therapy's challenge of establishing a cohesive brand identity and effective advertising, Spreadigit proposed a business card as a solution. This compact yet powerful marketing tool provided a tangible representation of the company's brand, serving as a memorable introduction to potential clients and partners. By leveraging our expertise in design and branding, we crafted a visually appealing business card that encapsulated Hydration Therapy's essence and key messaging. Each element, from the logo to the color scheme and typography, was carefully selected to convey professionalism, trustworthiness, and expertise in the field of hydration therapy. Moreover, the business card served as a versatile marketing asset, easily distributed at networking events, meetings, or even left behind at relevant locations for interested parties to discover. By ensuring consistency with other marketing materials and digital platforms, the business card reinforced Hydration Therapy's brand identity and helped to establish a lasting impression in the minds of potential clients. With Spreadigit's tailored approach to design and marketing, the business card emerged as a valuable tool in Hydration Therapy's efforts to expand their reach and attract new customers.
+
+
+
+
+
+
                         </div>
                     </div>
                 </div>
@@ -182,7 +187,7 @@
         
         
         <!-- Next Prev Post Area start -->
-        <section class="next-prev-post-area">
+        <!-- <section class="next-prev-post-area">
             <div class="container container-1290">
                 <div class="next-prev-post pt-110 rpt-80 pb-100 rpb-70">
                     <div class="prev-post wow fadeInLeft delay-0-2s">
@@ -205,7 +210,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Next Prev Post Area end -->
         
         
