@@ -391,7 +391,7 @@
             </div>
         </section> -->
         <!-- FAQ's Area end -->
-        <section class="pricing-plan-area pt-130 rpt-100 pb-90 rpb-60 rel z-1">
+        <!-- <section class="pricing-plan-area pt-130 rpt-100 pb-90 rpb-60 rel z-1">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-9">
@@ -455,7 +455,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         
         <!-- footer area start -->
         <?php
