@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
+
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -13,7 +14,7 @@
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
-    
+
     <!-- Flaticon -->
     <link rel="stylesheet" href="assets/css/flaticon.min.css">
     <!-- Font Awesome -->
@@ -30,23 +31,26 @@
     <link rel="stylesheet" href="assets/css/slick.min.css">
     <!-- Main Style -->
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
 </head>
+
 <body>
     <div class="page-wrapper">
 
         <!-- Preloader -->
-        <div class="preloader"><div class="custom-loader"></div></div>
+        <div class="preloader">
+            <div class="custom-loader"></div>
+        </div>
 
         <!-- main header -->
         <?php
-    include './partial/header.php';
-    ?>
-       
+        include './partial/header.php';
+        ?>
+
 
         <!--Form Back Drop-->
         <div class="form-back-drop"></div>
-        
+
         <!-- Hidden Sidebar -->
         <section class="hidden-bar">
             <div class="inner-box text-center">
@@ -83,8 +87,8 @@
             </div>
         </section>
         <!--End Hidden Sidebar -->
-        
-        
+
+
         <!-- Page Banner Start -->
         <section class="page-banner-area overlay pt-220 rpt-150 pb-170 rpb-100 rel z-1 bgs-cover text-center" style="background-image: url(assets/images/banner/banner-bg.jpg);">
             <div class="container">
@@ -100,12 +104,12 @@
             </div>
         </section>
         <!-- Page Banner End -->
-       
-       
-       <!-- Contact Form Area start -->
+
+
+        <!-- Contact Form Area start -->
         <section class="contact-page-area py-130 rpy-100 rel z-1">
             <div class="container">
-               <div class="row justify-content-between">
+                <div class="row justify-content-between">
                     <div class="col-lg-6">
                         <div class="our-location-part rmb-55 wow fadeInUp delay-0-2s">
                             <div class="row">
@@ -136,10 +140,9 @@
                             </div>
                             <h4>Follow Us</h4>
                             <div class="social-style-two pt-15">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.facebook.com/people/Spreadigit/61558593747198/"><i class="fab fa-facebook-f"></i> </a>
+                            <a href="https://twitter.com/spreadigit"><i class="fab fa-twitter"></i> </a>
+                            <a href="https://www.instagram.com/spreadigit/"><i class="fab fa-instagram"></i> </a>
                             </div>
                         </div>
                     </div>
@@ -149,7 +152,7 @@
                                 <span class="sub-title mb-15">Get Free Quote</span>
                                 <h3>Drop Us a Message</h3>
                             </div>
-                            <form id="contactForm" class="contactForm"  action="assets/php/form-process.php.html" name="contactForm" method="post">
+                            <form id="contactForm" class="contactForm"  name="contactForm" >
                                 <div class="row gap-60 pt-15">
                                     <div class="col-md-12">
                                         <div class="form-group">
@@ -179,6 +182,9 @@
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
+                                    <p class="contact__message" id="contact-message">
+                     <!-- Message sent successfully ✅ -->
+                  </p>
                                     <div class="col-md-12">
                                         <div class="form-group pt-5 mb-0">
                                             <button type="submit" class="theme-btn style-two w-100">Send Message us <i class="far fa-arrow-right"></i></button>
@@ -193,9 +199,9 @@
             </div>
         </section>
         <!-- Contact Form Area end -->
-       
-       
-       <!-- Location Map Area Start -->
+
+
+        <!-- Location Map Area Start -->
         <!-- <div class="contact-page-map mb-120 rpb-90 wow fadeInUp delay-0-2s">
             <div class="container-fluid">
                 <div class="our-location">
@@ -204,22 +210,22 @@
             </div>
         </div> -->
         <!-- Location Map Area End -->
-        
-       
+
+
         <!-- footer area start -->
         <?php
-    include './partial/footer.php';
-    ?>
+        include './partial/footer.php';
+        ?>
         <!-- footer area end -->
-        
-        
+
+
         <!-- Scroll Top Button -->
         <button class="scroll-top scroll-to-target" data-target="html"><span class="fas fa-angle-double-up"></span></button>
 
     </div>
     <!--End pagewrapper-->
-   
-    
+
+
     <!-- Jquery -->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap -->
@@ -242,11 +248,14 @@
     <script src="assets/js/wow.min.js"></script>
     <!-- Custom script -->
     <script src="assets/js/script.js"></script>
-    
+    <script src="assets/js/main.js"></script>
+
     <!-- For Contact Form -->
+    <script  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
     <script src="assets/js/jquery.ajaxchimp.min.js"></script>
     <script src="assets/js/form-validator.min.js"></script>
-    <script src="assets/js/contact-form-script.js"></script>
+    <!-- <script src="assets/js/contact-form-script.js"></script> -->
 
 </body>
+
 </html>

@@ -77,10 +77,9 @@
                         <div class="col-lg-6">
                             <div class="footer-bottom-social text-lg-end wow fadeInRight delay-0-2s">
                                 <div class="social-style-two">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                <a href="https://www.facebook.com/people/Spreadigit/61558593747198/"><i class="fab fa-facebook-f"></i> </a>
+                            <a href="https://twitter.com/spreadigit"><i class="fab fa-twitter"></i> </a>
+                            <a href="https://www.instagram.com/spreadigit/"><i class="fab fa-instagram"></i> </a>
                                 </div>
                             </div>
                         </div>

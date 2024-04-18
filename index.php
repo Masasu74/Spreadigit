@@ -59,25 +59,25 @@
                     <h4>Get Appointment</h4>
                 </div>
 
-                <!--Appointment Form-->
-                <div class="appointment-form">
-                    <form method="post" action="contact.php">
+                <!-- <div class="appointment-form">
+                    <form id="contactForm" name="contactForm">
                         <div class="form-group">
-                            <input type="text" name="text" value="" placeholder="Name" required>
+                            <input type="text" name="name" value="" placeholder="Name" required>
                         </div>
                         <div class="form-group">
                             <input type="email" name="email" value="" placeholder="Email Address" required>
                         </div>
                         <div class="form-group">
-                            <textarea placeholder="Message" rows="5"></textarea>
+                            <textarea placeholder="Message" rows="5" name="name"></textarea>
                         </div>
+                        <p class="contact__message" id="contact-message">
+                  </p>
                         <div class="form-group">
                             <button type="submit" class="theme-btn">Submit now</button>
                         </div>
                     </form>
-                </div>
+                </div> -->
 
-                <!--Social Icons-->
                 <div class="social-style-one">
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -94,10 +94,10 @@
             <div class="container container-1620">
                 <div class="hero-six-wrapper">
                     <div class="hero-social">
-                        <a href="#"><i class="fab fa-facebook-f"></i> <span>Facebook</span></a>
-                        <a href="#"><i class="fab fa-twitter"></i> <span>Twitter</span></a>
-                        <a href="#"><i class="fab fa-dribbble"></i> <span>Dribbble</span></a>
-                        <a href="#"><i class="fab fa-behance"></i> <span>Behance</span></a>
+                        <a href="https://www.facebook.com/people/Spreadigit/61558593747198/"><i class="fab fa-facebook-f"></i> <span>Facebook</span></a>
+                        <a href="https://twitter.com/spreadigit"><i class="fab fa-twitter"></i> <span>Twitter</span></a>
+                        <a href="https://www.instagram.com/spreadigit/"><i class="fab fa-instagram"></i> <span>Instagram</span></a>
+                        <!-- <a href="#"><i class="fab fa-behance"></i> <span>Behance</span></a> -->
                     </div>
                     <div class="row no-gap">
                         <div class="col-xl-4">

@@ -91,14 +91,13 @@
             </div>
 
             <!-- Menu Button -->
-            <div class="menu-btns">
-                <!-- menu sidbar -->
+            <!-- <div class="menu-btns">
                 <div class="menu-sidebar">
                     <button>
                         <img src="../assets/images/icons/toggler.svg" alt="Toggler">
                     </button>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

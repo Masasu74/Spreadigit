@@ -52,14 +52,13 @@
         <div class="form-back-drop"></div>
 
         <!-- Hidden Sidebar -->
-        <section class="hidden-bar">
+        <!-- <section class="hidden-bar">
             <div class="inner-box text-center">
                 <div class="cross-icon"><span class="fa fa-times"></span></div>
                 <div class="title">
                     <h4>Get Appointment</h4>
                 </div>
 
-                <!--Appointment Form-->
                 <div class="appointment-form">
                     <form method="post" action="contact.php">
                         <div class="form-group">
@@ -77,7 +76,6 @@
                     </form>
                 </div>
 
-                <!--Social Icons-->
                 <div class="social-style-one">
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -85,7 +83,7 @@
                     <a href="#"><i class="fab fa-pinterest-p"></i></a>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--End Hidden Sidebar -->
 
 
